@@ -1,25 +1,10 @@
-.node_circle {
-    stroke: #777;
-    stroke-width: 1.0px;
-}
-
-.node_label {
-    pointer-events: none;
-}
-
-.node_count {
-    stroke: #777;
-    stroke-width: 1.0px;
-    fill: #999;
-}
-
 div.tooltip {
     position: absolute;			/* reference for measurement */
     text-align: left;
     background: #FFFFEF;
     margin-right: 50px;
     width: 400px;
-    height: 165px;
+    height: 150px;
     padding: 10px;
     border: 1px solid #D5D5D5;
     font-family: arial,helvetica,sans-serif;
@@ -43,6 +28,19 @@ div.header-rule{
     height:1px;
     margin:1px auto 3px;
     margin-top:7px;
+    margin-bottom:7px;
+    background:#ddd;
+    width:125px;
+}
+
+div.header1{
+    font-size: 12px;
+    margin-bottom: 2px;
+    color:#000;
+    text-align:center;
+}
+
+margin-top:7px;
     margin-bottom:7px;
     background:#ddd;
     width:125px;

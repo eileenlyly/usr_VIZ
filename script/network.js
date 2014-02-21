@@ -6,7 +6,7 @@ var width = 1300,
     height = 800;
 
 var force = d3.layout.force()
-    .charge( function(d) { return -100 * Math.sqrt(d.count)} )
+    .charge( function(d) { return -80 * Math.sqrt(d.count)} )
     .linkDistance(50)
     .gravity(0.9)
     .size([width - 250, height]);
@@ -24,8 +24,8 @@ var header2 = d3.select(document.getElementById("header2"));
 d3.json("data/sample.json", function(error, graph) {
 
     var kind_to_color = function(d){
-        if(d.epika > 500) return d3.rgb(30,175,204);
-        return d3.rgb(200,30,60);
+        if(d.epika > 100) return "#CC99FF";
+        return "#33CC66";
     };
 
     var main = svg.append("g")
@@ -40,7 +40,7 @@ d3.json("data/sample.json", function(error, graph) {
         .data(graph.links)
         .enter().append("line")
         .attr("class", "link")
-        .style("stroke",function(d){ return kind_to_color(d).toString(); })
+        .style("stroke",function(d){ return kind_to_color(d); })
         .style("stroke-opacity", 0.2)
         .style("stroke-width", function(d) { return d.count/1000; });
 
