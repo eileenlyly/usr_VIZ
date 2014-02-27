@@ -1,0 +1,430 @@
+PQID,CMT,UNM,CAT
+14,2,Joe Cheng,I
+19,1,Ramnath Vaidyanathan,I
+20,1,Winston Chang,I
+25,1,Winston Chang,I
+26,17,Joe Cheng,I
+27,1,Joe Cheng,I
+29,5,Winston Chang,I
+30,1,Joe Cheng,I
+31,13,Winston Chang,I
+33,1,Winston Chang,I
+65,2,Winston Chang,I
+77,4,Winston Chang,I
+94,9,Winston Chang,I
+95,2,Winston Chang,I
+104,1,Winston Chang,I
+106,2,Winston Chang,I
+127,19,Jonathan "Geenz" Goodman,I
+152,3,Winston Chang,I
+162,4,Winston Chang,I
+163,4,Winston Chang,I
+228,2,Pieter Wuille,I
+240,1,Pieter Wuille,I
+243,3,Pieter Wuille,I
+250,1,Pieter Wuille,I
+288,1,Philip Kaufmann,I
+297,1,Philip Kaufmann,I
+300,1,Philip Kaufmann,I
+301,1,Philip Kaufmann,I
+304,1,Philip Kaufmann,I
+305,1,Philip Kaufmann,I
+309,1,Philip Kaufmann,I
+314,2,Pieter Wuille,I
+320,2,Pieter Wuille,I
+336,1,Philip Kaufmann,I
+338,2,Pieter Wuille,I
+350,1,Philip Kaufmann,I
+351,1,Philip Kaufmann,I
+352,1,Philip Kaufmann,I
+378,1,Philip Kaufmann,I
+380,1,Philip Kaufmann,I
+403,5,Ramnath Vaidyanathan,I
+425,1,Pieter Wuille,I
+428,1,Pieter Wuille,I
+463,1,Joe Cheng,I
+473,1,Philip Kaufmann,I
+474,12,Ramnath Vaidyanathan,I
+481,1,Philip Kaufmann,I
+490,1,Pieter Wuille,I
+494,1,Vitaliy Slobodin,I
+505,1,Philip Kaufmann,I
+506,2,Vitaliy Slobodin,I
+507,1,Pieter Wuille,I
+532,2,Vitaliy Slobodin,I
+539,1,Ivan De Marino,I
+544,1,Vitaliy Slobodin,I
+545,1,Vitaliy Slobodin,I
+546,1,Vitaliy Slobodin,I
+550,1,Vitaliy Slobodin,I
+603,1,Philip Kaufmann,I
+610,1,Pieter Wuille,I
+622,1,Vitaliy Slobodin,I
+623,1,Philip Kaufmann,I
+650,1,Ivan De Marino,I
+652,1,Ivan De Marino,I
+667,1,Vitaliy Slobodin,I
+669,1,Vitaliy Slobodin,I
+675,3,Pieter Wuille,I
+699,5,Zhaolong Lee,I
+701,1,Pieter Wuille,I
+708,1,Ivan De Marino,I
+713,1,Pieter Wuille,I
+716,15,Winston Chang,I
+722,1,Philip Kaufmann,I
+725,1,Ivan De Marino,I
+729,2,Vitaliy Slobodin,I
+730,1,Pieter Wuille,I
+738,1,Philip Kaufmann,I
+739,1,Ivan De Marino,I
+743,1,Vitaliy Slobodin,I
+744,1,Pieter Wuille,I
+747,3,Zhaolong Lee,I
+749,1,Philip Kaufmann,I
+751,1,Ivan De Marino,I
+756,1,Vitaliy Slobodin,I
+765,1,Ivan De Marino,I
+768,8,Ivan De Marino,I
+769,4,Philip Kaufmann,I
+770,1,Zhaolong Lee,I
+777,1,Philip Kaufmann,I
+787,2,Vitaliy Slobodin,I
+788,1,Jon Leighton,I
+789,3,Philip Kaufmann,I
+791,13,Zhaolong Lee,I
+792,1,Philip Kaufmann,I
+798,3,Philip Kaufmann,I
+801,1,Philip Kaufmann,I
+803,1,Philip Kaufmann,I
+805,1,Jon Leighton,I
+806,1,Philip Kaufmann,I
+808,1,Philip Kaufmann,I
+809,4,Jon Leighton,I
+810,1,Jon Leighton,I
+815,1,Ivan De Marino,I
+821,1,Pieter Wuille,I
+822,1,Philip Kaufmann,I
+825,4,Jon Leighton,I
+826,4,Jon Leighton,I
+827,1,Philip Kaufmann,I
+828,2,Pieter Wuille,I
+830,1,Philip Kaufmann,I
+832,1,Philip Kaufmann,I
+833,2,Jon Leighton,I
+837,1,Philip Kaufmann,I
+840,1,Jon Leighton,I
+842,1,Pieter Wuille,I
+847,1,Philip Kaufmann,I
+849,3,Ivan De Marino,I
+850,1,Philip Kaufmann,I
+851,1,Jon Leighton,I
+852,1,Philip Kaufmann,I
+853,2,Jon Leighton,I
+854,7,Ivan De Marino,I
+858,1,Jon Leighton,I
+864,1,Jon Leighton,I
+865,1,Philip Kaufmann,I
+867,1,Philip Kaufmann,I
+876,1,Jon Leighton,I
+877,2,Jon Leighton,I
+880,1,Jon Leighton,I
+886,1,Pieter Wuille,I
+889,1,Pieter Wuille,I
+890,1,Pieter Wuille,I
+90441,3,Andre d,O
+90442,6,Andre d,O
+90443,10,Andre d,O
+90444,3,Andre d,O
+90445,3,Andre d,O
+90446,2,Andre d,O
+90447,1,Andre d,O
+90448,3,Andre d,O
+90449,1,Andre d,O
+90450,1,Andre d,O
+90451,14,Andre d,O
+90452,48,Andre d,O
+90453,48,Andre d,O
+90454,21,Andre d,O
+90455,12,Andre d,O
+90456,13,Andre d,O
+90457,6,Andre d,O
+90458,5,Andre d,O
+90459,39,Andre d,O
+90460,18,Andre d,O
+90461,21,Andre d,O
+90462,7,Andre d,O
+90463,2,Andre d,O
+90478,4,David H.,O
+90479,5,David H.,O
+90480,1,David H.,O
+90481,11,David H.,O
+90482,1,David H.,O
+90488,3,Neil Williams,O
+90489,7,Neil Williams,O
+90490,15,Neil Williams,O
+90491,9,Neil Williams,O
+90492,19,Neil Williams,O
+90493,11,Neil Williams,O
+90494,21,Neil Williams,O
+90495,31,Neil Williams,O
+90496,18,Neil Williams,O
+90497,17,Neil Williams,O
+90498,11,Neil Williams,O
+90499,28,Neil Williams,O
+90500,29,Neil Williams,O
+90501,36,Neil Williams,O
+90502,42,Neil Williams,O
+90503,36,Neil Williams,O
+90504,46,Neil Williams,O
+90505,30,Neil Williams,O
+90506,28,Neil Williams,O
+90507,31,Neil Williams,O
+90508,40,Neil Williams,O
+90509,53,Neil Williams,O
+90510,16,Neil Williams,O
+90511,20,Neil Williams,O
+90512,1,Neil Williams,O
+90513,25,Neil Williams,O
+90514,10,Neil Williams,O
+90515,10,Neil Williams,O
+90516,8,Neil Williams,O
+90517,4,Neil Williams,O
+90518,1,Neil Williams,O
+90538,1,Bryce Boe,O
+90539,3,Bryce Boe,O
+90540,6,Bryce Boe,O
+90541,1,Bryce Boe,O
+90542,3,Bryce Boe,O
+90543,7,Bryce Boe,O
+90544,1,Bryce Boe,O
+90545,1,Bryce Boe,O
+90546,1,Bryce Boe,O
+90547,2,Bryce Boe,O
+90548,9,David King,O
+90549,4,David King,O
+90550,7,David King,O
+90551,15,David King,O
+90552,3,David King,O
+90553,6,David King,O
+90554,9,David King,O
+90555,7,David King,O
+90556,3,David King,O
+90557,1,David King,O
+90558,6,David King,O
+90559,3,David King,O
+90560,15,David King,O
+90561,3,David King,O
+90562,2,David King,O
+90563,1,David King,O
+90564,5,David King,O
+90565,1,David King,O
+90566,1,David King,O
+90567,1,David King,O
+90568,3,David King,O
+90573,3,Brian Simpson,O
+90574,5,Brian Simpson,O
+90575,5,Brian Simpson,O
+90576,2,Brian Simpson,O
+90577,2,Brian Simpson,O
+90578,5,Brian Simpson,O
+90579,10,Brian Simpson,O
+90580,4,Brian Simpson,O
+90581,4,Brian Simpson,O
+90582,10,Brian Simpson,O
+90583,11,Brian Simpson,O
+90584,4,Brian Simpson,O
+90585,13,Brian Simpson,O
+90586,21,Brian Simpson,O
+90587,10,Brian Simpson,O
+90588,32,Brian Simpson,O
+90589,23,Brian Simpson,O
+90590,5,Brian Simpson,O
+90591,22,Brian Simpson,O
+90592,21,Brian Simpson,O
+90593,20,Brian Simpson,O
+90594,34,Brian Simpson,O
+90595,16,Brian Simpson,O
+90596,13,Brian Simpson,O
+90597,15,Brian Simpson,O
+90598,1,Brian Simpson,O
+90599,1,Brian Simpson,O
+90600,7,Logan Hanks,O
+90601,11,Logan Hanks,O
+90602,14,Logan Hanks,O
+90603,14,Logan Hanks,O
+90604,16,Logan Hanks,O
+90605,17,Logan Hanks,O
+90606,6,Logan Hanks,O
+90607,4,Logan Hanks,O
+90608,3,Logan Hanks,O
+90609,6,Logan Hanks,O
+90610,22,Logan Hanks,O
+90611,1,Logan Hanks,O
+90612,21,Logan Hanks,O
+90613,14,Logan Hanks,O
+90614,19,Logan Hanks,O
+90615,21,Logan Hanks,O
+90616,2,Logan Hanks,O
+90617,7,Logan Hanks,O
+90618,5,Logan Hanks,O
+90619,14,Logan Hanks,O
+90620,2,Logan Hanks,O
+90621,1,Logan Hanks,O
+90622,1,Logan Hanks,O
+90625,1,Max Goodman,O
+90626,26,Max Goodman,O
+90627,32,Max Goodman,O
+90628,9,Max Goodman,O
+90629,16,Max Goodman,O
+90630,28,Max Goodman,O
+90631,37,Max Goodman,O
+90632,28,Max Goodman,O
+90633,20,Max Goodman,O
+90634,9,Max Goodman,O
+90635,14,Max Goodman,O
+90636,35,Max Goodman,O
+90637,9,Max Goodman,O
+90638,17,Max Goodman,O
+90639,16,Max Goodman,O
+90640,20,Max Goodman,O
+90641,46,Max Goodman,O
+90642,35,Max Goodman,O
+90643,27,Max Goodman,O
+90644,30,Max Goodman,O
+90645,18,Max Goodman,O
+90646,19,Max Goodman,O
+90647,29,Max Goodman,O
+90648,66,Max Goodman,O
+90649,46,Max Goodman,O
+90650,83,Max Goodman,O
+90651,19,Max Goodman,O
+90652,43,Max Goodman,O
+90653,11,Max Goodman,O
+90654,5,Max Goodman,O
+90667,4,DEADB33F,O
+90668,12,DEADB33F,O
+90669,2,DEADB33F,O
+90670,1,DEADB33F,O
+90671,1,Ricky Ramirez,O
+90672,1,Ricky Ramirez,O
+90673,2,Ricky Ramirez,O
+90674,1,Ricky Ramirez,O
+90675,4,Ricky Ramirez,O
+90676,6,Ricky Ramirez,O
+90677,11,Ricky Ramirez,O
+90678,2,Ricky Ramirez,O
+90679,1,Ricky Ramirez,O
+90680,7,Ricky Ramirez,O
+90681,10,Ricky Ramirez,O
+90682,9,Ricky Ramirez,O
+90683,9,Ricky Ramirez,O
+90704,5,shlurbee,O
+90705,9,shlurbee,O
+90706,19,shlurbee,O
+90707,6,shlurbee,O
+90708,5,shlurbee,O
+90709,16,shlurbee,O
+90710,6,shlurbee,O
+90726,4,Jeremy Edberg,O
+90727,8,Jeremy Edberg,O
+90728,3,Jeremy Edberg,O
+90729,1,Jeremy Edberg,O
+90730,3,Jeremy Edberg,O
+90731,3,Jeremy Edberg,O
+90732,1,Jeremy Edberg,O
+90733,2,Jeremy Edberg,O
+90741,5,Chad Birch,O
+90742,1,Chad Birch,O
+90743,2,Chad Birch,O
+90744,1,Chad Birch,O
+90745,6,Chad Birch,O
+90746,17,Chad Birch,O
+90747,21,Chad Birch,O
+90748,13,Chad Birch,O
+90749,7,Chad Birch,O
+90750,16,Chad Birch,O
+90751,19,Chad Birch,O
+90752,16,Chad Birch,O
+90753,1,Roger Ostrander,O
+90754,2,Roger Ostrander,O
+90755,2,Roger Ostrander,O
+90756,2,Roger Ostrander,O
+90757,2,Roger Ostrander,O
+90758,1,Roger Ostrander,O
+90759,1,Roger Ostrander,O
+90760,2,Roger Ostrander,O
+90761,3,Roger Ostrander,O
+90762,1,Roger Ostrander,O
+90763,4,Keith Mitchell,O
+90764,9,Keith Mitchell,O
+90765,4,Keith Mitchell,O
+90766,2,Keith Mitchell,O
+90767,3,Keith Mitchell,O
+90768,12,Keith Mitchell,O
+90769,9,Keith Mitchell,O
+90770,14,Keith Mitchell,O
+90771,11,Keith Mitchell,O
+90772,15,Keith Mitchell,O
+90773,6,Keith Mitchell,O
+90774,14,Keith Mitchell,O
+90775,13,Keith Mitchell,O
+90776,20,Keith Mitchell,O
+90777,10,Keith Mitchell,O
+90778,24,Keith Mitchell,O
+90779,13,Keith Mitchell,O
+90780,11,Keith Mitchell,O
+90781,18,Keith Mitchell,O
+90782,7,Keith Mitchell,O
+90783,3,Keith Mitchell,O
+90784,1,Jason Harvey,O
+90785,1,Jason Harvey,O
+90786,1,Jason Harvey,O
+90787,1,Jason Harvey,O
+90788,13,Jason Harvey,O
+90789,3,Jason Harvey,O
+90790,3,Jason Harvey,O
+90791,2,Jason Harvey,O
+90792,2,Jason Harvey,O
+90793,9,Jason Harvey,O
+90794,2,Jason Harvey,O
+90795,1,Jason Harvey,O
+90796,3,Jason Harvey,O
+90797,1,Jason Harvey,O
+90808,2,Jeff Sandberg,O
+90809,24,Jeff Sandberg,O
+90810,9,Jeff Sandberg,O
+90838,3,Christopher Slowe,O
+90839,16,Christopher Slowe,O
+90840,4,Christopher Slowe,O
+90841,9,Christopher Slowe,O
+90842,11,Christopher Slowe,O
+90843,10,Christopher Slowe,O
+90844,10,Christopher Slowe,O
+90845,11,Christopher Slowe,O
+90846,3,Christopher Slowe,O
+90847,12,Christopher Slowe,O
+90848,7,Christopher Slowe,O
+90849,18,Christopher Slowe,O
+90850,2,Christopher Slowe,O
+90851,1,Christopher Slowe,O
+90852,5,Christopher Slowe,O
+90853,2,Christopher Slowe,O
+90860,1,Mike,O
+90861,3,Mike,O
+90862,5,Mike,O
+90863,9,Mike,O
+90864,7,Mike,O
+90865,1,Mike,O
+90872,3,spez,O
+90873,3,spez,O
+90874,14,spez,O
+90875,14,spez,O
+90876,12,spez,O
+90877,4,spez,O
+90878,5,spez,O
+90879,13,spez,O
+90880,8,spez,O
+90881,2,spez,O
+90882,7,spez,O
+90883,13,spez,O
+90884,6,spez,O

@@ -1,0 +1,985 @@
+PQID,UID,Year,Month,Day,CMT_AMT,CAT,UNM
+62,1106,2013,2,20,2,M,Winston Chang
+62,1106,2013,3,8,9,M,Winston Chang
+64,1106,2013,2,18,1,M,Winston Chang
+65,1106,2013,2,18,2,M,Winston Chang
+70,1106,2013,1,31,1,M,Winston Chang
+70,1106,2013,2,11,15,M,Winston Chang
+75,1106,2013,1,26,1,M,Winston Chang
+77,1106,2013,1,30,3,M,Winston Chang
+79,1106,2013,1,25,1,M,Winston Chang
+80,1106,2013,1,24,3,M,Winston Chang
+88,1106,2013,1,22,3,M,Winston Chang
+90,1106,2013,1,22,3,M,Winston Chang
+91,1106,2013,4,5,3,M,Winston Chang
+92,1106,2013,1,22,1,M,Winston Chang
+94,1106,2013,1,16,9,M,Winston Chang
+95,1106,2013,4,1,2,M,Winston Chang
+97,1106,2013,4,1,2,M,Winston Chang
+104,1106,2013,1,7,1,M,Winston Chang
+106,1106,2013,2,8,2,M,Winston Chang
+107,1106,2013,1,4,4,M,Winston Chang
+110,1106,2012,12,19,2,M,Winston Chang
+112,1106,2012,12,19,2,M,Winston Chang
+116,1106,2012,12,5,2,M,Winston Chang
+118,1106,2012,12,3,1,M,Winston Chang
+120,1106,2012,12,3,1,M,Winston Chang
+124,1106,2012,10,30,2,M,Winston Chang
+125,1106,2012,12,17,1,M,Winston Chang
+125,1106,2013,1,16,2,M,Winston Chang
+126,1106,2012,12,15,3,M,Winston Chang
+129,1106,2012,12,15,4,M,Winston Chang
+130,1106,2012,12,15,3,M,Winston Chang
+134,1106,2012,12,11,3,M,Winston Chang
+135,1106,2012,12,11,3,M,Winston Chang
+140,1106,2012,11,3,1,M,Winston Chang
+146,1106,2012,9,12,8,M,Winston Chang
+147,1106,2012,8,29,2,M,Winston Chang
+148,1106,2012,8,24,3,M,Winston Chang
+151,1106,2012,8,16,10,M,Winston Chang
+152,1106,2012,8,13,3,M,Winston Chang
+155,1106,2012,8,11,10,M,Winston Chang
+158,1106,2012,8,10,52,M,Winston Chang
+162,1106,2012,7,26,3,M,Winston Chang
+162,1106,2012,8,15,1,M,Winston Chang
+163,1106,2012,7,23,2,M,Winston Chang
+163,1106,2012,8,9,2,M,Winston Chang
+171,1106,2012,5,21,3,M,Winston Chang
+210,1198,2013,9,14,2,M,Philip Kaufmann
+211,1198,2013,9,13,2,M,Philip Kaufmann
+212,1198,2013,9,13,2,M,Philip Kaufmann
+215,1188,2013,9,8,4,M,Luke-Jr
+221,1207,2013,7,27,14,M,Pieter Wuille
+221,1207,2013,9,14,5,M,Pieter Wuille
+228,1207,2013,8,24,2,M,Pieter Wuille
+229,1198,2013,8,24,2,M,Philip Kaufmann
+232,1188,2013,8,20,4,M,Luke-Jr
+234,2574,2013,8,22,4,M,Eric Lombrozo
+239,1196,2013,8,6,1,M,Gavin Andresen
+240,1207,2013,7,25,1,M,Pieter Wuille
+242,2574,2013,7,21,6,M,Eric Lombrozo
+243,1207,2013,7,24,3,M,Pieter Wuille
+244,1207,2013,7,20,2,M,Pieter Wuille
+245,1188,2012,5,12,1,M,Luke-Jr
+248,1188,2013,7,1,1,M,Luke-Jr
+249,1207,2013,1,11,2,M,Pieter Wuille
+250,1207,2013,6,24,1,M,Pieter Wuille
+251,1207,2013,6,22,1,M,Pieter Wuille
+263,2574,2013,6,30,1,M,Eric Lombrozo
+263,2574,2013,7,9,1,M,Eric Lombrozo
+268,1188,2013,1,30,2,M,Luke-Jr
+271,2574,2012,12,21,19,M,Eric Lombrozo
+271,2574,2013,1,19,22,M,Eric Lombrozo
+275,1188,2012,8,1,1,M,Luke-Jr
+279,1188,2013,9,10,4,M,Luke-Jr
+283,1198,2013,9,4,1,M,Philip Kaufmann
+288,1198,2013,8,31,1,M,Philip Kaufmann
+289,1198,2013,8,30,1,M,Philip Kaufmann
+297,1198,2013,8,28,1,M,Philip Kaufmann
+298,1196,2013,8,27,1,M,Gavin Andresen
+300,1198,2013,8,25,1,M,Philip Kaufmann
+301,1198,2013,8,25,1,M,Philip Kaufmann
+303,1207,2013,8,24,1,M,Pieter Wuille
+304,1198,2013,8,24,1,M,Philip Kaufmann
+305,1198,2013,8,24,1,M,Philip Kaufmann
+307,1198,2013,8,23,1,M,Philip Kaufmann
+309,1198,2013,8,21,1,M,Philip Kaufmann
+313,1188,2013,8,20,3,M,Luke-Jr
+314,1207,2013,8,20,2,M,Pieter Wuille
+317,1196,2013,8,19,1,M,Gavin Andresen
+320,1207,2013,8,17,2,M,Pieter Wuille
+326,1188,2013,4,19,1,M,Luke-Jr
+326,1188,2013,7,15,2,M,Luke-Jr
+326,1196,2013,6,26,2,M,Gavin Andresen
+326,1196,2013,7,30,1,M,Gavin Andresen
+326,1196,2013,8,1,2,M,Gavin Andresen
+326,1198,2013,6,23,2,M,Philip Kaufmann
+326,1198,2013,7,13,9,M,Philip Kaufmann
+326,1198,2013,8,5,2,M,Philip Kaufmann
+326,1207,2013,4,29,3,M,Pieter Wuille
+326,1207,2013,6,19,5,M,Pieter Wuille
+326,1207,2013,7,13,2,M,Pieter Wuille
+326,2574,2013,1,23,2,M,Eric Lombrozo
+326,2574,2013,6,23,11,M,Eric Lombrozo
+328,1196,2013,8,11,1,M,Gavin Andresen
+330,1196,2013,8,8,1,M,Gavin Andresen
+331,1196,2013,8,7,1,M,Gavin Andresen
+334,1198,2013,8,5,1,M,Philip Kaufmann
+335,1196,2013,8,5,1,M,Gavin Andresen
+336,1198,2013,8,5,1,M,Philip Kaufmann
+337,1196,2013,8,4,1,M,Gavin Andresen
+338,1207,2013,8,3,2,M,Pieter Wuille
+341,2574,2013,8,2,1,M,Eric Lombrozo
+342,1198,2013,8,2,1,M,Philip Kaufmann
+343,1196,2013,8,1,2,M,Gavin Andresen
+346,1196,2013,7,30,1,M,Gavin Andresen
+347,1198,2013,7,29,1,M,Philip Kaufmann
+350,1198,2013,7,24,1,M,Philip Kaufmann
+351,1198,2013,7,23,1,M,Philip Kaufmann
+352,1198,2013,7,23,1,M,Philip Kaufmann
+355,1198,2013,7,23,1,M,Philip Kaufmann
+357,1198,2013,7,22,1,M,Philip Kaufmann
+358,1198,2013,7,22,1,M,Philip Kaufmann
+360,1188,2013,7,21,1,M,Luke-Jr
+367,1188,2013,7,15,1,M,Luke-Jr
+372,1207,2013,6,22,2,M,Pieter Wuille
+372,1207,2013,7,14,2,M,Pieter Wuille
+373,1106,2013,1,6,3,M,Winston Chang
+376,2574,2013,7,13,1,M,Eric Lombrozo
+378,1198,2013,7,13,1,M,Philip Kaufmann
+380,1198,2013,7,13,1,M,Philip Kaufmann
+382,1207,2013,7,13,1,M,Pieter Wuille
+387,1196,2013,3,15,4,M,Gavin Andresen
+387,1196,2013,6,25,1,M,Gavin Andresen
+387,1207,2013,6,23,1,M,Pieter Wuille
+387,7989,2013,3,13,10,M,Sunny King
+387,7989,2013,4,4,7,M,Sunny King
+387,7989,2013,5,5,9,M,Sunny King
+387,7989,2013,6,4,18,M,Sunny King
+387,7989,2013,7,11,34,M,Sunny King
+403,91,2013,1,4,5,M,Ramnath Vaidyanathan
+421,2574,2013,7,7,1,M,Eric Lombrozo
+425,1207,2013,6,22,1,M,Pieter Wuille
+428,1207,2013,6,19,1,M,Pieter Wuille
+451,91,2012,6,27,3,M,Ramnath Vaidyanathan
+457,91,2012,4,23,10,M,Ramnath Vaidyanathan
+460,2574,2013,6,23,10,M,Eric Lombrozo
+462,91,2012,4,12,1,M,Ramnath Vaidyanathan
+465,91,2012,3,25,22,M,Ramnath Vaidyanathan
+465,91,2012,4,11,12,M,Ramnath Vaidyanathan
+470,1188,2013,6,6,1,M,Luke-Jr
+473,1198,2013,6,5,1,M,Philip Kaufmann
+474,91,2011,12,16,12,M,Ramnath Vaidyanathan
+475,91,2011,12,15,56,M,Ramnath Vaidyanathan
+480,1198,2013,6,3,1,M,Philip Kaufmann
+481,1198,2013,6,3,1,M,Philip Kaufmann
+483,1106,2012,12,14,4,M,Winston Chang
+485,1106,2013,2,13,13,M,Winston Chang
+490,1207,2013,5,29,1,M,Pieter Wuille
+493,1207,2013,6,29,1,M,Pieter Wuille
+496,8380,2013,8,9,75,M,Jamie Mason
+496,8380,2013,9,11,14,M,Jamie Mason
+503,1196,2013,5,23,1,M,Gavin Andresen
+505,1198,2013,5,22,1,M,Philip Kaufmann
+507,1207,2013,5,22,1,M,Pieter Wuille
+513,1106,2012,12,11,4,M,Winston Chang
+517,1207,2013,5,20,1,M,Pieter Wuille
+523,2557,2013,7,3,1,M,execjosh
+529,1188,2012,5,22,3,M,Luke-Jr
+529,1188,2012,6,6,6,M,Luke-Jr
+529,1196,2012,5,16,7,M,Gavin Andresen
+529,1196,2012,6,19,5,M,Gavin Andresen
+529,1198,2012,5,8,2,M,Philip Kaufmann
+529,1198,2012,6,11,3,M,Philip Kaufmann
+529,1207,2012,5,12,1,M,Pieter Wuille
+529,1207,2012,6,8,3,M,Pieter Wuille
+529,7989,2012,5,30,5,M,Sunny King
+529,7989,2012,6,7,10,M,Sunny King
+529,7989,2012,7,5,14,M,Sunny King
+529,7989,2012,8,1,37,M,Sunny King
+529,7989,2012,9,5,11,M,Sunny King
+529,7989,2012,10,2,1,M,Sunny King
+529,7989,2012,11,9,2,M,Sunny King
+529,7989,2013,3,25,1,M,Sunny King
+539,2513,2013,7,25,1,M,Ivan De Marino
+541,2557,2013,3,25,2,M,execjosh
+541,2557,2013,4,2,2,M,execjosh
+547,2513,2013,6,20,1,M,Ivan De Marino
+562,2513,2013,4,30,1,M,Ivan De Marino
+567,2557,2013,3,26,3,M,execjosh
+570,2557,2013,4,10,2,M,execjosh
+572,2557,2013,3,26,1,M,execjosh
+572,2557,2013,4,6,1,M,execjosh
+577,2557,2013,3,25,1,M,execjosh
+577,2557,2013,4,2,1,M,execjosh
+581,2513,2013,2,22,1,M,Ivan De Marino
+581,2513,2013,3,17,2,M,Ivan De Marino
+595,1196,2013,5,13,1,M,Gavin Andresen
+598,2513,2013,2,12,1,M,Ivan De Marino
+601,1198,2013,5,12,1,M,Philip Kaufmann
+603,1198,2013,5,12,1,M,Philip Kaufmann
+608,1207,2013,5,12,1,M,Pieter Wuille
+610,1207,2013,5,12,1,M,Pieter Wuille
+616,1196,2013,5,9,1,M,Gavin Andresen
+618,1196,2013,5,9,1,M,Gavin Andresen
+623,1198,2013,5,7,1,M,Philip Kaufmann
+629,1196,2013,5,7,1,M,Gavin Andresen
+636,1198,2013,5,6,1,M,Philip Kaufmann
+640,2557,2012,12,28,1,M,execjosh
+642,2557,2012,12,29,1,M,execjosh
+647,2513,2012,12,21,2,M,Ivan De Marino
+648,1198,2013,5,4,1,M,Philip Kaufmann
+650,2513,2012,12,19,1,M,Ivan De Marino
+652,2513,2012,12,17,1,M,Ivan De Marino
+654,2513,2012,12,15,1,M,Ivan De Marino
+655,2557,2012,12,17,3,M,execjosh
+659,2513,2012,12,12,1,M,Ivan De Marino
+661,1196,2013,5,2,1,M,Gavin Andresen
+662,1207,2013,5,2,1,M,Pieter Wuille
+664,1196,2013,5,2,1,M,Gavin Andresen
+666,1196,2013,5,2,1,M,Gavin Andresen
+670,1207,2013,5,1,1,M,Pieter Wuille
+672,1207,2013,5,1,1,M,Pieter Wuille
+675,1207,2013,4,30,2,M,Pieter Wuille
+675,1207,2013,5,4,1,M,Pieter Wuille
+678,1207,2013,4,30,1,M,Pieter Wuille
+682,1207,2013,4,30,1,M,Pieter Wuille
+684,1207,2013,4,29,3,M,Pieter Wuille
+687,1207,2013,4,28,3,M,Pieter Wuille
+701,1207,2013,4,26,1,M,Pieter Wuille
+703,2513,2012,11,18,3,M,Ivan De Marino
+708,2513,2012,11,17,1,M,Ivan De Marino
+713,1207,2013,4,25,1,M,Pieter Wuille
+714,2513,2012,9,28,8,M,Ivan De Marino
+714,2513,2012,10,28,3,M,Ivan De Marino
+716,1106,2013,1,15,11,M,Winston Chang
+719,1207,2013,4,25,1,M,Pieter Wuille
+722,1198,2013,4,25,1,M,Philip Kaufmann
+724,1198,2013,4,25,1,M,Philip Kaufmann
+725,2513,2012,10,31,1,M,Ivan De Marino
+728,1198,2013,2,23,1,M,Philip Kaufmann
+728,1207,2013,4,23,2,M,Pieter Wuille
+730,1207,2013,4,23,1,M,Pieter Wuille
+738,1198,2013,4,22,1,M,Philip Kaufmann
+739,2513,2012,10,16,1,M,Ivan De Marino
+742,1188,2013,4,19,1,M,Luke-Jr
+744,1207,2013,4,18,1,M,Pieter Wuille
+749,1198,2013,4,18,1,M,Philip Kaufmann
+751,2513,2012,9,21,1,M,Ivan De Marino
+754,2513,2012,9,18,3,M,Ivan De Marino
+765,2513,2012,9,9,1,M,Ivan De Marino
+768,2513,2012,7,27,2,M,Ivan De Marino
+768,2513,2012,8,13,3,M,Ivan De Marino
+768,2513,2012,9,5,3,M,Ivan De Marino
+769,1198,2013,4,14,4,M,Philip Kaufmann
+772,2513,2012,9,3,1,M,Ivan De Marino
+775,1207,2013,4,13,1,M,Pieter Wuille
+777,1198,2013,4,10,1,M,Philip Kaufmann
+789,1198,2013,4,10,3,M,Philip Kaufmann
+792,1198,2013,4,10,1,M,Philip Kaufmann
+793,1198,2013,4,10,1,M,Philip Kaufmann
+798,1196,2013,4,12,1,M,Gavin Andresen
+798,1198,2013,4,8,1,M,Philip Kaufmann
+798,1207,2013,3,28,1,M,Pieter Wuille
+798,1207,2013,4,12,1,M,Pieter Wuille
+801,1198,2013,4,8,1,M,Philip Kaufmann
+803,1198,2013,4,7,1,M,Philip Kaufmann
+806,1198,2013,4,7,1,M,Philip Kaufmann
+807,2513,2012,7,11,7,M,Ivan De Marino
+808,1198,2013,4,7,1,M,Philip Kaufmann
+811,1198,2013,4,7,1,M,Philip Kaufmann
+815,2513,2012,7,3,1,M,Ivan De Marino
+816,1207,2013,4,6,1,M,Pieter Wuille
+821,1207,2013,4,6,1,M,Pieter Wuille
+822,1198,2013,4,6,1,M,Philip Kaufmann
+827,1198,2013,4,4,1,M,Philip Kaufmann
+828,1207,2013,4,7,2,M,Pieter Wuille
+830,1198,2013,4,4,1,M,Philip Kaufmann
+831,1198,2013,4,4,1,M,Philip Kaufmann
+832,1198,2013,4,4,1,M,Philip Kaufmann
+834,2513,2012,6,24,1,M,Ivan De Marino
+837,1198,2013,4,4,1,M,Philip Kaufmann
+842,1207,2013,4,3,1,M,Pieter Wuille
+845,1198,2013,4,3,1,M,Philip Kaufmann
+847,1198,2013,4,3,1,M,Philip Kaufmann
+849,2513,2012,6,17,3,M,Ivan De Marino
+850,1198,2013,4,3,1,M,Philip Kaufmann
+852,1198,2013,4,2,1,M,Philip Kaufmann
+854,2513,2012,5,30,6,M,Ivan De Marino
+854,2513,2012,6,14,1,M,Ivan De Marino
+855,1198,2013,4,2,1,M,Philip Kaufmann
+865,1198,2013,4,1,1,M,Philip Kaufmann
+867,1198,2013,4,1,1,M,Philip Kaufmann
+886,1207,2013,3,28,1,M,Pieter Wuille
+888,1207,2013,3,28,1,M,Pieter Wuille
+889,1207,2013,3,28,1,M,Pieter Wuille
+890,1207,2013,3,28,1,M,Pieter Wuille
+891,1198,2012,12,15,1,M,Philip Kaufmann
+894,1207,2013,2,28,1,M,Pieter Wuille
+894,1207,2013,3,29,2,M,Pieter Wuille
+907,1198,2013,3,20,2,M,Philip Kaufmann
+909,1198,2013,3,19,1,M,Philip Kaufmann
+912,1196,2013,3,21,3,M,Gavin Andresen
+913,9185,2012,4,11,2,M,Keegan McAllister
+917,1198,2013,3,18,1,M,Philip Kaufmann
+918,1198,2013,3,17,1,M,Philip Kaufmann
+919,1198,2013,3,17,1,M,Philip Kaufmann
+921,1196,2013,3,15,2,M,Gavin Andresen
+933,2513,2012,3,20,6,M,Ivan De Marino
+949,1198,2013,2,23,1,M,Philip Kaufmann
+959,1207,2013,2,16,1,M,Pieter Wuille
+961,2557,2012,4,4,3,M,execjosh
+964,1196,2013,2,16,3,M,Gavin Andresen
+964,1207,2013,2,16,1,M,Pieter Wuille
+965,1207,2013,2,10,1,M,Pieter Wuille
+966,1207,2013,2,13,2,M,Pieter Wuille
+968,1196,2013,2,11,1,M,Gavin Andresen
+969,1207,2013,2,10,1,M,Pieter Wuille
+970,1207,2013,2,10,1,M,Pieter Wuille
+973,1196,2013,2,7,1,M,Gavin Andresen
+974,1198,2013,2,6,1,M,Philip Kaufmann
+976,1196,2013,2,6,1,M,Gavin Andresen
+977,1207,2013,2,6,1,M,Pieter Wuille
+978,1196,2013,2,5,1,M,Gavin Andresen
+979,1196,2013,2,4,3,M,Gavin Andresen
+980,1196,2013,2,4,1,M,Gavin Andresen
+982,1196,2013,2,4,1,M,Gavin Andresen
+984,2513,2012,3,23,4,M,Ivan De Marino
+985,2513,2012,3,22,2,M,Ivan De Marino
+987,2513,2012,3,20,1,M,Ivan De Marino
+988,2513,2012,3,20,1,M,Ivan De Marino
+989,1196,2013,1,30,1,M,Gavin Andresen
+991,1198,2013,2,1,1,M,Philip Kaufmann
+999,1188,2013,1,30,1,M,Luke-Jr
+1000,2513,2012,3,12,1,M,Ivan De Marino
+1007,1207,2013,1,30,1,M,Pieter Wuille
+1009,2513,2012,3,5,1,M,Ivan De Marino
+1010,1196,2013,1,30,1,M,Gavin Andresen
+1012,1196,2013,1,30,1,M,Gavin Andresen
+1014,1196,2013,1,30,1,M,Gavin Andresen
+1015,1196,2013,1,30,1,M,Gavin Andresen
+1016,2513,2012,1,5,1,M,Ivan De Marino
+1019,1188,2013,1,30,1,M,Luke-Jr
+1019,1188,2013,2,8,1,M,Luke-Jr
+1027,1196,2013,1,29,1,M,Gavin Andresen
+1030,1196,2013,1,29,1,M,Gavin Andresen
+1032,1207,2013,1,28,2,M,Pieter Wuille
+1033,2513,2011,10,16,1,M,Ivan De Marino
+1034,1207,2013,1,29,2,M,Pieter Wuille
+1035,1198,2013,1,27,1,M,Philip Kaufmann
+1036,1207,2013,1,28,5,M,Pieter Wuille
+1037,1196,2013,1,26,1,M,Gavin Andresen
+1038,2557,2012,2,4,2,M,execjosh
+1039,2557,2012,2,2,2,M,execjosh
+1040,1207,2013,1,26,1,M,Pieter Wuille
+1042,1207,2013,1,20,1,M,Pieter Wuille
+1044,2574,2013,3,22,1,M,Eric Lombrozo
+1045,1198,2013,1,26,1,M,Philip Kaufmann
+1046,2557,2012,12,21,2,M,execjosh
+1050,1198,2013,1,23,1,M,Philip Kaufmann
+1053,1198,2013,1,23,1,M,Philip Kaufmann
+1054,2557,2012,1,9,13,M,execjosh
+1054,2557,2012,2,19,2,M,execjosh
+1056,2574,2013,1,23,1,M,Eric Lombrozo
+1057,1196,2012,12,21,1,M,Gavin Andresen
+1057,1207,2012,12,11,5,M,Pieter Wuille
+1058,2557,2012,1,9,1,M,execjosh
+1060,2513,2012,1,4,6,M,Ivan De Marino
+1064,1196,2012,12,21,1,M,Gavin Andresen
+1064,1207,2012,12,11,5,M,Pieter Wuille
+1068,1198,2013,1,20,1,M,Philip Kaufmann
+1071,1198,2013,1,20,1,M,Philip Kaufmann
+1075,1207,2013,1,18,1,M,Pieter Wuille
+1078,2574,2013,1,18,1,M,Eric Lombrozo
+1084,1196,2013,1,23,2,M,Gavin Andresen
+1086,1198,2013,1,14,1,M,Philip Kaufmann
+1088,1196,2013,1,16,2,M,Gavin Andresen
+1089,2513,2011,10,16,1,M,Ivan De Marino
+1090,1198,2013,1,14,2,M,Philip Kaufmann
+1093,1198,2013,1,11,1,M,Philip Kaufmann
+1094,2513,2011,10,16,1,M,Ivan De Marino
+1095,1198,2013,1,11,1,M,Philip Kaufmann
+1100,1198,2013,1,10,1,M,Philip Kaufmann
+1103,1198,2013,1,10,1,M,Philip Kaufmann
+1107,2557,2011,9,18,2,M,execjosh
+1109,2513,2011,9,12,1,M,Ivan De Marino
+1111,1196,2013,1,4,1,M,Gavin Andresen
+1113,2513,2011,9,7,4,M,Ivan De Marino
+1114,1207,2013,1,9,1,M,Pieter Wuille
+1119,2513,2011,9,4,2,M,Ivan De Marino
+1126,1198,2013,1,7,1,M,Philip Kaufmann
+1128,2513,2011,8,31,5,M,Ivan De Marino
+1130,2513,2011,8,31,2,M,Ivan De Marino
+1132,2557,2011,8,28,3,M,execjosh
+1133,2557,2011,8,28,2,M,execjosh
+1136,2557,2011,8,29,13,M,execjosh
+1138,2557,2011,8,24,3,M,execjosh
+1140,2557,2011,8,24,1,M,execjosh
+1142,2557,2011,8,22,2,M,execjosh
+1145,2557,2011,8,16,9,M,execjosh
+1150,2513,2011,8,8,3,M,Ivan De Marino
+1154,2513,2011,8,1,1,M,Ivan De Marino
+1156,2513,2011,8,4,3,M,Ivan De Marino
+1160,2513,2011,7,21,1,M,Ivan De Marino
+1161,2513,2011,7,17,4,M,Ivan De Marino
+1163,2513,2011,7,17,1,M,Ivan De Marino
+1165,2513,2011,7,17,1,M,Ivan De Marino
+1170,2513,2011,7,17,11,M,Ivan De Marino
+1188,2513,2011,6,28,4,M,Ivan De Marino
+1189,9185,2012,4,30,4,M,Keegan McAllister
+1189,9185,2012,5,5,8,M,Keegan McAllister
+1190,2513,2011,6,28,2,M,Ivan De Marino
+1191,2513,2011,6,27,2,M,Ivan De Marino
+1193,2513,2011,6,24,1,M,Ivan De Marino
+1195,2513,2011,6,23,28,M,Ivan De Marino
+1197,9185,2012,5,2,6,M,Keegan McAllister
+1199,2513,2011,6,24,5,M,Ivan De Marino
+1200,9185,2012,5,1,1,M,Keegan McAllister
+1202,9185,2012,4,30,1,M,Keegan McAllister
+1204,9185,2012,4,30,4,M,Keegan McAllister
+1210,2513,2011,6,16,2,M,Ivan De Marino
+1217,2513,2011,6,10,16,M,Ivan De Marino
+1224,2513,2011,6,1,1,M,Ivan De Marino
+1225,9185,2012,4,16,1,M,Keegan McAllister
+1226,2513,2011,6,1,6,M,Ivan De Marino
+1227,9185,2012,4,16,1,M,Keegan McAllister
+1229,9185,2012,4,16,1,M,Keegan McAllister
+1231,9185,2012,4,16,1,M,Keegan McAllister
+1236,2513,2011,5,4,1,M,Ivan De Marino
+1239,9185,2012,4,15,1,M,Keegan McAllister
+1240,9185,2012,4,15,1,M,Keegan McAllister
+1243,9185,2012,4,13,2,M,Keegan McAllister
+1248,2513,2011,4,18,2,M,Ivan De Marino
+1253,2513,2011,3,24,7,M,Ivan De Marino
+1253,2513,2011,4,9,8,M,Ivan De Marino
+1257,9185,2012,4,12,4,M,Keegan McAllister
+1260,9185,2012,3,13,12,M,Keegan McAllister
+1260,9185,2012,4,14,3,M,Keegan McAllister
+1262,2513,2011,3,24,7,M,Ivan De Marino
+1264,2513,2011,3,24,7,M,Ivan De Marino
+1264,2513,2011,4,7,1,M,Ivan De Marino
+1265,2513,2011,3,1,1,M,Ivan De Marino
+1267,2513,2011,2,28,1,M,Ivan De Marino
+1274,1196,2013,1,4,1,M,Gavin Andresen
+1276,9185,2012,4,10,1,M,Keegan McAllister
+1286,1198,2013,1,6,1,M,Philip Kaufmann
+1289,9185,2012,3,24,4,M,Keegan McAllister
+1289,9185,2012,4,12,5,M,Keegan McAllister
+1290,1198,2013,1,5,1,M,Philip Kaufmann
+1291,1198,2013,1,5,1,M,Philip Kaufmann
+1292,1207,2013,1,4,1,M,Pieter Wuille
+1299,1207,2012,12,30,2,M,Pieter Wuille
+1299,1207,2013,1,3,1,M,Pieter Wuille
+1300,9185,2012,3,27,5,M,Keegan McAllister
+1302,1106,2012,8,19,22,M,Winston Chang
+1303,9185,2012,3,27,1,M,Keegan McAllister
+1304,1196,2013,1,1,1,M,Gavin Andresen
+1306,1198,2012,12,31,1,M,Philip Kaufmann
+1307,9185,2012,3,26,1,M,Keegan McAllister
+1308,1198,2012,12,28,1,M,Philip Kaufmann
+1314,9185,2012,3,24,2,M,Keegan McAllister
+1315,9185,2012,3,22,2,M,Keegan McAllister
+1317,9185,2012,3,21,1,M,Keegan McAllister
+1319,9185,2012,3,18,1,M,Keegan McAllister
+1323,9185,2012,3,17,5,M,Keegan McAllister
+1327,9185,2012,3,17,1,M,Keegan McAllister
+1328,9185,2012,3,16,2,M,Keegan McAllister
+1329,1196,2012,12,20,1,M,Gavin Andresen
+1333,9185,2012,3,13,1,M,Keegan McAllister
+1334,1207,2012,12,19,1,M,Pieter Wuille
+1337,9185,2012,3,6,1,M,Keegan McAllister
+1339,9185,2012,3,6,1,M,Keegan McAllister
+1340,9185,2012,3,6,4,M,Keegan McAllister
+1341,1207,2012,12,18,1,M,Pieter Wuille
+1342,9185,2012,3,5,2,M,Keegan McAllister
+1343,9185,2012,3,7,2,M,Keegan McAllister
+1345,9185,2012,3,5,4,M,Keegan McAllister
+1346,1198,2012,12,15,1,M,Philip Kaufmann
+1347,1198,2012,12,15,1,M,Philip Kaufmann
+1349,1198,2012,12,15,1,M,Philip Kaufmann
+1362,1106,2012,7,23,2,M,Winston Chang
+1362,1106,2012,8,13,13,M,Winston Chang
+1365,1198,2012,12,12,1,M,Philip Kaufmann
+1366,1198,2012,12,12,2,M,Philip Kaufmann
+1370,1198,2012,12,10,1,M,Philip Kaufmann
+1371,1196,2012,12,10,1,M,Gavin Andresen
+1374,1196,2012,12,10,2,M,Gavin Andresen
+1374,1198,2012,11,27,2,M,Philip Kaufmann
+1374,1198,2012,12,1,8,M,Philip Kaufmann
+1374,1207,2012,11,30,2,M,Pieter Wuille
+1374,1207,2012,12,19,8,M,Pieter Wuille
+1375,1106,2012,8,13,8,M,Winston Chang
+1383,1198,2012,12,3,1,M,Philip Kaufmann
+1386,1198,2012,12,3,1,M,Philip Kaufmann
+1387,1207,2012,12,2,1,M,Pieter Wuille
+1388,1207,2012,12,2,5,M,Pieter Wuille
+1388,1207,2013,1,23,1,M,Pieter Wuille
+1388,1207,2013,3,4,2,M,Pieter Wuille
+1391,1207,2012,12,1,1,M,Pieter Wuille
+1392,1198,2012,12,1,1,M,Philip Kaufmann
+1396,1207,2012,11,28,2,M,Pieter Wuille
+1398,1198,2012,11,27,1,M,Philip Kaufmann
+1400,1198,2012,11,27,1,M,Philip Kaufmann
+1401,1188,2012,11,26,2,M,Luke-Jr
+1402,1188,2012,11,26,1,M,Luke-Jr
+1403,1207,2012,11,24,1,M,Pieter Wuille
+1405,1196,2012,11,21,1,M,Gavin Andresen
+1408,1198,2012,11,18,1,M,Philip Kaufmann
+1410,1198,2012,11,16,1,M,Philip Kaufmann
+1411,1198,2012,11,16,1,M,Philip Kaufmann
+1412,1198,2012,11,15,1,M,Philip Kaufmann
+1415,1188,2012,10,28,1,M,Luke-Jr
+1416,1207,2012,11,14,1,M,Pieter Wuille
+1417,1188,2012,9,8,1,M,Luke-Jr
+1418,1198,2012,11,14,1,M,Philip Kaufmann
+1419,1198,2012,11,14,1,M,Philip Kaufmann
+1420,1207,2012,11,13,1,M,Pieter Wuille
+1421,1207,2012,11,13,1,M,Pieter Wuille
+1423,1198,2012,11,11,1,M,Philip Kaufmann
+1427,1198,2012,11,10,1,M,Philip Kaufmann
+1428,1198,2012,11,9,1,M,Philip Kaufmann
+1430,1198,2012,11,8,1,M,Philip Kaufmann
+1434,1198,2012,11,4,1,M,Philip Kaufmann
+1441,1207,2012,11,4,1,M,Pieter Wuille
+1442,1207,2012,11,4,1,M,Pieter Wuille
+1443,1207,2012,11,4,1,M,Pieter Wuille
+1444,1207,2012,11,4,1,M,Pieter Wuille
+1445,1198,2012,11,4,1,M,Philip Kaufmann
+1446,1198,2012,11,4,1,M,Philip Kaufmann
+1448,1207,2012,11,2,1,M,Pieter Wuille
+1449,1207,2012,11,1,1,M,Pieter Wuille
+1450,1207,2012,11,1,1,M,Pieter Wuille
+1454,1207,2012,10,28,1,M,Pieter Wuille
+1455,1207,2012,10,27,2,M,Pieter Wuille
+1456,1198,2012,10,25,1,M,Philip Kaufmann
+1460,1198,2012,10,24,1,M,Philip Kaufmann
+1463,1207,2012,10,22,5,M,Pieter Wuille
+1467,1198,2012,10,21,1,M,Philip Kaufmann
+1468,1198,2012,10,21,1,M,Philip Kaufmann
+1470,1207,2012,10,21,1,M,Pieter Wuille
+1471,1207,2012,10,21,1,M,Pieter Wuille
+1472,1207,2012,6,15,7,M,Pieter Wuille
+1472,1207,2012,7,1,4,M,Pieter Wuille
+1472,1207,2012,8,22,6,M,Pieter Wuille
+1472,1207,2012,9,3,8,M,Pieter Wuille
+1472,1207,2012,10,13,5,M,Pieter Wuille
+1473,1207,2012,10,19,1,M,Pieter Wuille
+1475,1188,2012,10,15,1,M,Luke-Jr
+1476,1188,2012,10,15,1,M,Luke-Jr
+1483,1198,2012,10,12,2,M,Philip Kaufmann
+1486,1196,2012,10,8,1,M,Gavin Andresen
+1488,1198,2012,10,7,1,M,Philip Kaufmann
+1489,1198,2012,10,7,1,M,Philip Kaufmann
+1490,1207,2012,10,7,1,M,Pieter Wuille
+1491,1198,2012,10,5,1,M,Philip Kaufmann
+1492,1198,2012,10,5,1,M,Philip Kaufmann
+1493,1196,2012,10,4,1,M,Gavin Andresen
+1501,1198,2012,10,2,1,M,Philip Kaufmann
+1504,1198,2012,9,29,1,M,Philip Kaufmann
+1505,1198,2012,9,30,1,M,Philip Kaufmann
+1509,1198,2012,9,29,1,M,Philip Kaufmann
+1511,1207,2012,9,28,1,M,Pieter Wuille
+1514,1207,2012,9,28,1,M,Pieter Wuille
+1515,1188,2012,9,7,4,M,Luke-Jr
+1515,1196,2012,9,18,6,M,Gavin Andresen
+1515,1198,2012,7,16,1,M,Philip Kaufmann
+1515,1198,2012,8,14,4,M,Philip Kaufmann
+1515,1198,2012,9,7,6,M,Philip Kaufmann
+1515,1207,2012,9,12,1,M,Pieter Wuille
+1524,1198,2012,9,24,1,M,Philip Kaufmann
+1530,1198,2012,9,22,1,M,Philip Kaufmann
+1531,1198,2012,7,16,1,M,Philip Kaufmann
+1532,1198,2012,9,22,1,M,Philip Kaufmann
+1536,1196,2012,9,21,1,M,Gavin Andresen
+1538,1198,2012,9,21,1,M,Philip Kaufmann
+1539,1198,2012,9,21,1,M,Philip Kaufmann
+1546,1196,2012,9,18,1,M,Gavin Andresen
+1550,1207,2012,9,12,1,M,Pieter Wuille
+1551,1196,2012,9,12,1,M,Gavin Andresen
+1552,1196,2012,9,10,4,M,Gavin Andresen
+1555,1188,2012,9,8,1,M,Luke-Jr
+1557,1198,2012,9,9,1,M,Philip Kaufmann
+1563,1188,2012,9,8,1,M,Luke-Jr
+1564,1188,2012,9,8,1,M,Luke-Jr
+1565,1188,2012,9,7,1,M,Luke-Jr
+1566,1198,2012,9,7,1,M,Philip Kaufmann
+1568,1188,2012,9,7,1,M,Luke-Jr
+1572,1198,2012,9,5,1,M,Philip Kaufmann
+1574,1198,2012,9,4,1,M,Philip Kaufmann
+1575,1198,2012,9,4,1,M,Philip Kaufmann
+1578,1196,2012,9,4,2,M,Gavin Andresen
+1581,1198,2012,8,31,1,M,Philip Kaufmann
+1587,1198,2012,9,1,1,M,Philip Kaufmann
+1590,1188,2012,9,1,1,M,Luke-Jr
+1590,1196,2012,9,2,1,M,Gavin Andresen
+1590,1198,2012,8,31,1,M,Philip Kaufmann
+1592,1188,2012,8,30,1,M,Luke-Jr
+1594,1198,2012,8,30,1,M,Philip Kaufmann
+1595,1198,2012,8,30,1,M,Philip Kaufmann
+1598,1198,2012,8,30,1,M,Philip Kaufmann
+1601,1198,2012,8,28,1,M,Philip Kaufmann
+1604,1207,2012,8,28,1,M,Pieter Wuille
+1606,1196,2012,8,28,2,M,Gavin Andresen
+1608,1207,2012,8,22,1,M,Pieter Wuille
+1615,1198,2012,8,27,1,M,Philip Kaufmann
+1616,1198,2012,8,27,1,M,Philip Kaufmann
+1617,1188,2012,8,27,1,M,Luke-Jr
+1619,1196,2012,8,27,2,M,Gavin Andresen
+1624,1198,2012,8,24,1,M,Philip Kaufmann
+1625,1207,2012,8,24,1,M,Pieter Wuille
+1629,1207,2012,8,23,1,M,Pieter Wuille
+1639,1207,2012,8,21,1,M,Pieter Wuille
+1640,1207,2012,8,21,1,M,Pieter Wuille
+1642,1198,2012,8,21,1,M,Philip Kaufmann
+1644,1196,2012,8,20,1,M,Gavin Andresen
+1645,1196,2012,8,20,1,M,Gavin Andresen
+1646,1196,2012,8,20,1,M,Gavin Andresen
+1647,1198,2012,8,18,1,M,Philip Kaufmann
+1648,1198,2012,8,18,1,M,Philip Kaufmann
+1652,1198,2012,8,17,1,M,Philip Kaufmann
+1653,1198,2012,8,16,1,M,Philip Kaufmann
+1654,1198,2012,8,16,1,M,Philip Kaufmann
+1656,1198,2012,8,14,1,M,Philip Kaufmann
+1658,1188,2012,5,22,6,M,Luke-Jr
+1658,1188,2012,6,1,4,M,Luke-Jr
+1658,1188,2012,7,11,1,M,Luke-Jr
+1658,1188,2012,8,12,11,M,Luke-Jr
+1658,1196,2012,6,27,1,M,Gavin Andresen
+1658,1196,2012,7,5,1,M,Gavin Andresen
+1666,1198,2012,8,1,1,M,Philip Kaufmann
+1667,1198,2012,8,1,1,M,Philip Kaufmann
+1668,1188,2011,10,3,1,M,Luke-Jr
+1668,1188,2011,12,21,1,M,Luke-Jr
+1668,1188,2012,5,18,1,M,Luke-Jr
+1669,1198,2012,8,1,1,M,Philip Kaufmann
+1670,1188,2011,12,21,4,M,Luke-Jr
+1671,1106,2012,2,23,3,M,Winston Chang
+1672,1198,2012,8,1,1,M,Philip Kaufmann
+1675,1198,2012,7,29,1,M,Philip Kaufmann
+1675,1198,2012,8,1,1,M,Philip Kaufmann
+1676,1198,2012,7,26,1,M,Philip Kaufmann
+1679,1196,2012,7,26,1,M,Gavin Andresen
+1684,1198,2012,7,22,1,M,Philip Kaufmann
+1685,1198,2012,7,22,1,M,Philip Kaufmann
+1687,1188,2012,7,22,1,M,Luke-Jr
+1690,1198,2012,7,21,1,M,Philip Kaufmann
+1691,1198,2012,7,21,1,M,Philip Kaufmann
+1694,1188,2012,7,19,1,M,Luke-Jr
+1695,1198,2012,7,18,1,M,Philip Kaufmann
+1700,1196,2012,7,17,2,M,Gavin Andresen
+1702,1198,2012,7,16,1,M,Philip Kaufmann
+1703,1198,2012,7,14,1,M,Philip Kaufmann
+1708,1198,2012,7,12,1,M,Philip Kaufmann
+1709,1198,2012,7,12,1,M,Philip Kaufmann
+1710,1198,2012,7,12,1,M,Philip Kaufmann
+1711,1196,2012,7,26,2,M,Gavin Andresen
+1712,1198,2012,7,12,1,M,Philip Kaufmann
+1713,1198,2012,7,12,1,M,Philip Kaufmann
+1714,1188,2012,6,17,1,M,Luke-Jr
+1714,1188,2012,8,12,1,M,Luke-Jr
+1715,1198,2012,7,11,1,M,Philip Kaufmann
+1716,1198,2012,7,11,1,M,Philip Kaufmann
+1718,1198,2012,7,11,1,M,Philip Kaufmann
+1722,1198,2012,7,10,1,M,Philip Kaufmann
+1723,1198,2012,7,9,1,M,Philip Kaufmann
+1725,1198,2012,7,8,1,M,Philip Kaufmann
+1726,1207,2012,7,7,1,M,Pieter Wuille
+1727,1198,2012,7,7,1,M,Philip Kaufmann
+1730,1198,2012,7,6,1,M,Philip Kaufmann
+1737,1198,2012,7,3,1,M,Philip Kaufmann
+1744,1198,2012,6,30,1,M,Philip Kaufmann
+91859,27308,2010,9,30,32,O,Scott Clasen @scottclasen
+91860,27308,2010,10,28,29,O,Scott Clasen @scottclasen
+91861,27308,2010,11,28,32,O,Scott Clasen @scottclasen
+91862,27308,2010,12,9,1,O,Scott Clasen @scottclasen
+91863,27308,2011,4,16,3,O,Scott Clasen @scottclasen
+91864,27308,2011,5,25,8,O,Scott Clasen @scottclasen
+91869,44561,2010,12,19,4,O,Derek Williams
+91870,44561,2011,1,22,2,O,Derek Williams
+91871,44561,2011,2,25,22,O,Derek Williams
+91872,44561,2011,3,30,8,O,Derek Williams
+91873,44561,2011,4,11,38,O,Derek Williams
+91874,44561,2011,5,3,15,O,Derek Williams
+91875,44561,2011,6,13,3,O,Derek Williams
+91876,44561,2011,7,26,17,O,Derek Williams
+91877,44561,2011,8,14,15,O,Derek Williams
+91878,44561,2011,10,28,2,O,Derek Williams
+91879,44561,2011,11,5,1,O,Derek Williams
+91880,44561,2011,12,31,3,O,Derek Williams
+91881,44561,2012,1,23,21,O,Derek Williams
+91882,44561,2012,2,27,2,O,Derek Williams
+91891,75250,2009,7,29,10,O,Viktor Klang (√)
+91892,75250,2009,8,15,6,O,Viktor Klang (√)
+91893,75250,2009,9,26,5,O,Viktor Klang (√)
+91894,75250,2009,10,23,7,O,Viktor Klang (√)
+91895,75250,2009,11,18,5,O,Viktor Klang (√)
+91896,75250,2009,12,29,31,O,Viktor Klang (√)
+91897,75250,2010,1,30,30,O,Viktor Klang (√)
+91898,75250,2010,2,22,17,O,Viktor Klang (√)
+91899,75250,2010,3,30,28,O,Viktor Klang (√)
+91900,75250,2010,4,29,27,O,Viktor Klang (√)
+91901,75250,2010,5,31,29,O,Viktor Klang (√)
+91902,75250,2010,6,27,12,O,Viktor Klang (√)
+91903,75250,2010,7,29,12,O,Viktor Klang (√)
+91904,75250,2010,8,31,106,O,Viktor Klang (√)
+91905,75250,2010,9,23,115,O,Viktor Klang (√)
+91906,75250,2010,10,29,101,O,Viktor Klang (√)
+91907,75250,2010,11,20,59,O,Viktor Klang (√)
+91908,75250,2010,12,30,30,O,Viktor Klang (√)
+91909,75250,2011,1,4,39,O,Viktor Klang (√)
+91910,75250,2011,2,27,27,O,Viktor Klang (√)
+91911,75250,2011,3,8,114,O,Viktor Klang (√)
+91912,75250,2011,4,30,66,O,Viktor Klang (√)
+91913,75250,2011,5,20,105,O,Viktor Klang (√)
+91914,75250,2011,6,16,50,O,Viktor Klang (√)
+91915,75250,2011,7,12,58,O,Viktor Klang (√)
+91916,75250,2011,8,31,41,O,Viktor Klang (√)
+91917,75250,2011,9,17,73,O,Viktor Klang (√)
+91918,75250,2011,10,29,132,O,Viktor Klang (√)
+91919,75250,2011,11,29,102,O,Viktor Klang (√)
+91920,75250,2011,12,30,192,O,Viktor Klang (√)
+91921,75250,2012,1,24,158,O,Viktor Klang (√)
+91922,75250,2012,2,21,140,O,Viktor Klang (√)
+91923,75250,2012,3,1,59,O,Viktor Klang (√)
+91924,75250,2012,4,4,104,O,Viktor Klang (√)
+91925,75250,2012,5,6,191,O,Viktor Klang (√)
+91926,75250,2012,6,12,179,O,Viktor Klang (√)
+91927,75250,2012,7,5,123,O,Viktor Klang (√)
+91928,75250,2012,8,3,88,O,Viktor Klang (√)
+91929,75250,2012,9,26,133,O,Viktor Klang (√)
+91930,75250,2012,10,16,94,O,Viktor Klang (√)
+91931,75250,2012,11,30,97,O,Viktor Klang (√)
+91932,75250,2012,12,14,59,O,Viktor Klang (√)
+91933,75250,2013,1,20,39,O,Viktor Klang (√)
+91934,75250,2013,2,8,18,O,Viktor Klang (√)
+91935,75250,2013,3,14,31,O,Viktor Klang (√)
+91936,75250,2013,4,3,46,O,Viktor Klang (√)
+91937,75250,2013,5,30,31,O,Viktor Klang (√)
+91938,75250,2013,6,27,22,O,Viktor Klang (√)
+91939,75250,2013,7,23,2,O,Viktor Klang (√)
+91940,75250,2013,8,7,4,O,Viktor Klang (√)
+91957,114376,2012,12,21,1,O,drewhk
+91958,114376,2013,1,9,18,O,drewhk
+91959,114376,2013,2,20,13,O,drewhk
+91960,114376,2013,3,1,4,O,drewhk
+91961,114376,2013,4,25,10,O,drewhk
+91962,114376,2013,5,2,14,O,drewhk
+91963,114376,2013,6,25,6,O,drewhk
+91964,114376,2013,7,4,2,O,drewhk
+91965,114376,2013,8,22,13,O,drewhk
+91966,114376,2013,9,20,1,O,drewhk
+91974,126754,2009,2,19,7,O,Jonas Bonér
+91975,126754,2009,3,26,42,O,Jonas Bonér
+91976,126754,2009,4,28,20,O,Jonas Bonér
+91977,126754,2009,5,25,27,O,Jonas Bonér
+91978,126754,2009,6,30,16,O,Jonas Bonér
+91979,126754,2009,7,29,14,O,Jonas Bonér
+91980,126754,2009,8,31,21,O,Jonas Bonér
+91981,126754,2009,9,12,1,O,Jonas Bonér
+91982,126754,2010,2,17,1,O,Jonas Bonér
+91983,126754,2010,3,17,3,O,Jonas Bonér
+91984,126754,2010,5,24,1,O,Jonas Bonér
+91985,126754,2010,6,19,1,O,Jonas Bonér
+91986,126754,2010,7,30,9,O,Jonas Bonér
+91987,126754,2010,8,16,7,O,Jonas Bonér
+91988,126754,2010,12,31,3,O,Jonas Bonér
+91989,126754,2011,1,5,1,O,Jonas Bonér
+91990,126754,2011,3,29,1,O,Jonas Bonér
+91991,126754,2011,4,29,10,O,Jonas Bonér
+91992,126754,2011,5,29,4,O,Jonas Bonér
+91993,126754,2011,6,23,22,O,Jonas Bonér
+91994,126754,2011,7,5,18,O,Jonas Bonér
+91995,126754,2011,8,23,66,O,Jonas Bonér
+91996,126754,2011,9,28,42,O,Jonas Bonér
+91997,126754,2011,10,26,39,O,Jonas Bonér
+91998,126754,2011,11,29,19,O,Jonas Bonér
+91999,126754,2011,12,20,40,O,Jonas Bonér
+92000,126754,2012,1,27,40,O,Jonas Bonér
+92001,126754,2012,2,20,83,O,Jonas Bonér
+92002,126754,2012,3,5,21,O,Jonas Bonér
+92003,126754,2012,4,24,10,O,Jonas Bonér
+92004,126754,2012,5,23,36,O,Jonas Bonér
+92005,126754,2012,6,19,60,O,Jonas Bonér
+92006,126754,2012,8,29,1,O,Jonas Bonér
+92007,126754,2012,9,23,1,O,Jonas Bonér
+92008,126754,2012,10,18,1,O,Jonas Bonér
+92009,126754,2013,5,21,3,O,Jonas Bonér
+92010,126754,2013,8,7,1,O,Jonas Bonér
+92021,199873,2010,4,19,8,O,Peter Vlugter
+92022,199873,2010,5,28,11,O,Peter Vlugter
+92023,199873,2010,6,22,30,O,Peter Vlugter
+92024,199873,2010,7,15,3,O,Peter Vlugter
+92025,199873,2010,8,23,9,O,Peter Vlugter
+92026,199873,2010,11,22,26,O,Peter Vlugter
+92027,199873,2010,12,21,3,O,Peter Vlugter
+92028,199873,2011,1,31,5,O,Peter Vlugter
+92029,199873,2011,2,15,3,O,Peter Vlugter
+92030,199873,2011,3,4,33,O,Peter Vlugter
+92031,199873,2011,4,26,44,O,Peter Vlugter
+92032,199873,2011,5,5,42,O,Peter Vlugter
+92033,199873,2011,6,30,9,O,Peter Vlugter
+92034,199873,2011,7,11,21,O,Peter Vlugter
+92035,199873,2011,8,29,7,O,Peter Vlugter
+92036,199873,2011,9,27,22,O,Peter Vlugter
+92037,199873,2011,10,20,14,O,Peter Vlugter
+92038,199873,2011,11,27,8,O,Peter Vlugter
+92039,199873,2011,12,21,39,O,Peter Vlugter
+92040,199873,2012,1,23,10,O,Peter Vlugter
+92041,199873,2012,2,13,3,O,Peter Vlugter
+92042,199873,2012,3,5,13,O,Peter Vlugter
+92043,199873,2012,5,13,3,O,Peter Vlugter
+92044,199873,2012,6,25,2,O,Peter Vlugter
+92045,199873,2012,7,27,3,O,Peter Vlugter
+92046,199873,2012,9,27,3,O,Peter Vlugter
+92047,199873,2012,10,23,4,O,Peter Vlugter
+92048,199873,2012,11,5,2,O,Peter Vlugter
+92049,199873,2013,6,23,2,O,Peter Vlugter
+92089,205317,2011,12,29,13,O,Piotr Gabryanczyk
+92090,205317,2012,1,19,178,O,Piotr Gabryanczyk
+92091,205317,2012,2,6,10,O,Piotr Gabryanczyk
+92092,205317,2012,3,27,4,O,Piotr Gabryanczyk
+92093,205317,2012,4,23,15,O,Piotr Gabryanczyk
+92094,205317,2012,5,10,5,O,Piotr Gabryanczyk
+92125,205343,2010,11,6,3,O,Roland Kuhn
+92126,205343,2010,12,31,15,O,Roland Kuhn
+92127,205343,2011,1,4,8,O,Roland Kuhn
+92128,205343,2011,3,1,5,O,Roland Kuhn
+92129,205343,2011,4,30,15,O,Roland Kuhn
+92130,205343,2011,5,31,26,O,Roland Kuhn
+92131,205343,2011,6,13,21,O,Roland Kuhn
+92132,205343,2011,7,30,9,O,Roland Kuhn
+92133,205343,2011,8,14,8,O,Roland Kuhn
+92134,205343,2011,9,14,19,O,Roland Kuhn
+92135,205343,2011,10,17,39,O,Roland Kuhn
+92136,205343,2011,11,29,72,O,Roland Kuhn
+92137,205343,2011,12,29,113,O,Roland Kuhn
+92138,205343,2012,1,23,55,O,Roland Kuhn
+92139,205343,2012,2,13,110,O,Roland Kuhn
+92140,205343,2012,3,1,32,O,Roland Kuhn
+92141,205343,2012,4,2,46,O,Roland Kuhn
+92142,205343,2012,5,4,64,O,Roland Kuhn
+92143,205343,2012,6,17,39,O,Roland Kuhn
+92144,205343,2012,7,27,37,O,Roland Kuhn
+92145,205343,2012,8,22,75,O,Roland Kuhn
+92146,205343,2012,9,21,39,O,Roland Kuhn
+92147,205343,2012,10,17,28,O,Roland Kuhn
+92148,205343,2012,11,27,52,O,Roland Kuhn
+92149,205343,2012,12,3,44,O,Roland Kuhn
+92150,205343,2013,1,8,115,O,Roland Kuhn
+92151,205343,2013,2,22,45,O,Roland Kuhn
+92152,205343,2013,3,12,32,O,Roland Kuhn
+92153,205343,2013,4,8,55,O,Roland Kuhn
+92154,205343,2013,5,22,78,O,Roland Kuhn
+92155,205343,2013,6,26,51,O,Roland Kuhn
+92156,205343,2013,7,9,40,O,Roland Kuhn
+92157,205343,2013,8,29,12,O,Roland Kuhn
+92158,205343,2013,9,14,1,O,Roland Kuhn
+92159,205343,2013,10,1,1,O,Roland Kuhn
+92196,205525,2011,11,30,35,O,Patrik Nordwall
+92197,205525,2011,12,23,107,O,Patrik Nordwall
+92198,205525,2012,1,23,120,O,Patrik Nordwall
+92199,205525,2012,2,16,45,O,Patrik Nordwall
+92200,205525,2012,5,30,100,O,Patrik Nordwall
+92201,205525,2012,6,13,123,O,Patrik Nordwall
+92202,205525,2012,7,6,22,O,Patrik Nordwall
+92203,205525,2012,8,31,87,O,Patrik Nordwall
+92204,205525,2012,9,27,141,O,Patrik Nordwall
+92205,205525,2012,10,17,84,O,Patrik Nordwall
+92206,205525,2012,11,30,46,O,Patrik Nordwall
+92207,205525,2012,12,5,42,O,Patrik Nordwall
+92208,205525,2013,1,2,103,O,Patrik Nordwall
+92209,205525,2013,2,1,94,O,Patrik Nordwall
+92210,205525,2013,3,19,56,O,Patrik Nordwall
+92211,205525,2013,4,19,92,O,Patrik Nordwall
+92212,205525,2013,5,31,111,O,Patrik Nordwall
+92213,205525,2013,6,3,24,O,Patrik Nordwall
+92214,205525,2013,7,1,29,O,Patrik Nordwall
+92215,205525,2013,8,28,57,O,Patrik Nordwall
+92216,205525,2013,9,17,53,O,Patrik Nordwall
+92217,205526,2012,3,20,1,O,Björn Antonsson
+92218,205526,2012,4,25,1,O,Björn Antonsson
+92219,205526,2012,5,25,24,O,Björn Antonsson
+92220,205526,2012,6,28,33,O,Björn Antonsson
+92221,205526,2012,7,3,3,O,Björn Antonsson
+92222,205526,2012,8,17,36,O,Björn Antonsson
+92223,205526,2012,9,25,38,O,Björn Antonsson
+92224,205526,2012,10,29,24,O,Björn Antonsson
+92225,205526,2012,11,27,27,O,Björn Antonsson
+92226,205526,2012,12,8,13,O,Björn Antonsson
+92227,205526,2013,1,17,17,O,Björn Antonsson
+92228,205526,2013,2,18,55,O,Björn Antonsson
+92229,205526,2013,3,13,48,O,Björn Antonsson
+92230,205526,2013,4,4,35,O,Björn Antonsson
+92231,205526,2013,5,29,48,O,Björn Antonsson
+92232,205526,2013,6,20,13,O,Björn Antonsson
+92233,205526,2013,8,27,19,O,Björn Antonsson
+92234,205526,2013,9,16,21,O,Björn Antonsson
+92235,205527,2013,4,25,23,O,Endre Sándor Varga
+92236,205527,2013,5,7,23,O,Endre Sándor Varga
+92237,205527,2013,6,27,11,O,Endre Sándor Varga
+92238,205527,2013,7,24,24,O,Endre Sándor Varga
+92239,205527,2013,8,27,14,O,Endre Sándor Varga
+92240,205527,2013,9,17,2,O,Endre Sándor Varga
+92241,205529,2010,3,21,21,O,Martin Krasser
+92242,205529,2010,5,29,7,O,Martin Krasser
+92243,205529,2010,6,24,29,O,Martin Krasser
+92244,205529,2010,7,30,37,O,Martin Krasser
+92245,205529,2010,8,27,11,O,Martin Krasser
+92246,205529,2010,9,29,10,O,Martin Krasser
+92247,205529,2010,10,29,21,O,Martin Krasser
+92248,205529,2010,11,9,3,O,Martin Krasser
+92249,205529,2011,1,15,2,O,Martin Krasser
+92250,205529,2011,2,14,9,O,Martin Krasser
+92251,205529,2011,3,7,10,O,Martin Krasser
+92252,205529,2011,5,25,1,O,Martin Krasser
+92253,205529,2011,6,28,5,O,Martin Krasser
+92254,205529,2011,7,16,5,O,Martin Krasser
+92255,205529,2011,8,26,2,O,Martin Krasser
+92256,205529,2011,9,14,2,O,Martin Krasser
+92257,205529,2013,8,19,1,O,Martin Krasser
+92258,205529,2013,9,17,7,O,Martin Krasser
+92259,205529,2013,10,2,1,O,Martin Krasser
+92275,205583,2012,8,27,1,O,Endre Sándor Varga
+92276,205583,2012,9,12,2,O,Endre Sándor Varga
+92277,205583,2012,10,30,3,O,Endre Sándor Varga
+92278,205583,2012,11,21,7,O,Endre Sándor Varga
+92279,205583,2012,12,20,22,O,Endre Sándor Varga
+92280,205583,2013,1,10,22,O,Endre Sándor Varga
+92281,205583,2013,2,18,40,O,Endre Sándor Varga
+92282,205583,2013,3,27,14,O,Endre Sándor Varga
+92283,205583,2013,4,12,5,O,Endre Sándor Varga
+92311,207463,2010,6,30,1,O,Irmo Manie
+92312,207463,2010,7,27,36,O,Irmo Manie
+92313,207463,2010,8,19,29,O,Irmo Manie
+92314,207463,2010,10,8,10,O,Irmo Manie
+92315,207463,2010,11,25,10,O,Irmo Manie
+92316,207463,2010,12,24,3,O,Irmo Manie
+92317,207463,2011,1,3,9,O,Irmo Manie
+92318,207463,2012,3,26,11,O,Irmo Manie
+92319,207463,2012,4,4,2,O,Irmo Manie
+92326,207881,2009,12,31,68,O,Jonas Bonér
+92327,207881,2010,1,2,17,O,Jonas Bonér
+92328,207881,2010,2,23,24,O,Jonas Bonér
+92329,207881,2010,3,31,67,O,Jonas Bonér
+92330,207881,2010,4,30,56,O,Jonas Bonér
+92331,207881,2010,5,31,116,O,Jonas Bonér
+92332,207881,2010,6,29,54,O,Jonas Bonér
+92333,207881,2010,7,31,54,O,Jonas Bonér
+92334,207881,2010,8,30,42,O,Jonas Bonér
+92335,207881,2010,9,30,22,O,Jonas Bonér
+92336,207881,2010,10,6,29,O,Jonas Bonér
+92337,207881,2010,11,23,32,O,Jonas Bonér
+92338,207881,2010,12,22,19,O,Jonas Bonér
+92339,207881,2011,1,11,2,O,Jonas Bonér
+92340,207881,2011,2,28,3,O,Jonas Bonér
+92341,207881,2011,3,23,48,O,Jonas Bonér
+92342,207881,2011,4,20,52,O,Jonas Bonér
+92343,207881,2011,5,25,42,O,Jonas Bonér
+92344,207881,2011,6,22,25,O,Jonas Bonér
+92349,207964,2011,4,11,89,O,Patrik Nordwall
+92350,207964,2011,5,15,45,O,Patrik Nordwall
+92351,207964,2011,6,29,2,O,Patrik Nordwall
+92352,207964,2011,7,4,27,O,Patrik Nordwall
+92353,207964,2011,8,29,9,O,Patrik Nordwall
+92354,207964,2011,9,30,2,O,Patrik Nordwall
+92355,207964,2011,10,20,8,O,Patrik Nordwall
+92356,207964,2011,11,18,10,O,Patrik Nordwall
+92359,207977,2011,6,30,9,O,Peter Veentjer
+92360,207977,2011,7,11,47,O,Peter Veentjer
+92361,207977,2011,8,29,34,O,Peter Veentjer
+92367,207993,2010,2,19,2,O,Debasish Ghosh
+92368,207993,2010,3,30,8,O,Debasish Ghosh
+92369,207993,2010,4,30,4,O,Debasish Ghosh
+92370,207993,2010,5,30,12,O,Debasish Ghosh
+92371,207993,2010,6,10,1,O,Debasish Ghosh
+92372,207993,2010,7,29,8,O,Debasish Ghosh
+92373,207993,2010,8,16,1,O,Debasish Ghosh
+92374,207993,2010,9,29,18,O,Debasish Ghosh
+92375,207993,2010,10,19,2,O,Debasish Ghosh
+92376,207993,2010,11,16,9,O,Debasish Ghosh
+92377,207993,2011,2,25,2,O,Debasish Ghosh
+92378,207993,2011,3,25,6,O,Debasish Ghosh
+92379,207993,2011,4,12,1,O,Debasish Ghosh
+92380,207993,2011,5,4,1,O,Debasish Ghosh
+92381,207993,2011,6,15,6,O,Debasish Ghosh
+92382,207993,2011,7,30,3,O,Debasish Ghosh

@@ -1,0 +1,1392 @@
+PQID,UID,Year,Month,Day,CMT_AMT,CAT,UNM
+20,1106,2013,8,23,1,I,Winston Chang
+25,1106,2013,7,9,1,I,Winston Chang
+29,1106,2013,6,24,2,I,Winston Chang
+31,1106,2013,6,20,13,I,Winston Chang
+33,1106,2013,6,12,1,I,Winston Chang
+39,1106,2013,5,15,1,I,Winston Chang
+40,1106,2013,5,15,1,I,Winston Chang
+42,1106,2013,4,24,2,I,Winston Chang
+42,1106,2013,5,6,1,I,Winston Chang
+44,1106,2013,4,24,37,I,Winston Chang
+46,1106,2013,4,18,2,I,Winston Chang
+47,1106,2013,4,18,3,I,Winston Chang
+48,1106,2013,3,30,4,I,Winston Chang
+48,1106,2013,4,10,21,I,Winston Chang
+49,1106,2013,3,30,4,I,Winston Chang
+49,1106,2013,4,2,3,I,Winston Chang
+53,1106,2013,3,16,1,I,Winston Chang
+54,1106,2013,3,12,1,I,Winston Chang
+56,1106,2013,3,11,4,I,Winston Chang
+62,1106,2013,2,20,2,I,Winston Chang
+62,1106,2013,3,8,9,I,Winston Chang
+64,1106,2013,2,18,1,I,Winston Chang
+65,1106,2013,2,18,2,I,Winston Chang
+70,1106,2013,1,31,1,I,Winston Chang
+70,1106,2013,2,11,15,I,Winston Chang
+75,1106,2013,1,26,1,I,Winston Chang
+77,1106,2013,1,30,3,I,Winston Chang
+79,1106,2013,1,25,1,I,Winston Chang
+80,1106,2013,1,24,3,I,Winston Chang
+88,1106,2013,1,22,3,I,Winston Chang
+90,1106,2013,1,22,3,I,Winston Chang
+91,1106,2013,4,5,3,I,Winston Chang
+92,1106,2013,1,22,1,I,Winston Chang
+94,1106,2013,1,16,9,I,Winston Chang
+95,1106,2013,4,1,2,I,Winston Chang
+97,1106,2013,4,1,2,I,Winston Chang
+104,1106,2013,1,7,1,I,Winston Chang
+106,1106,2013,2,8,2,I,Winston Chang
+107,1106,2013,1,4,4,I,Winston Chang
+110,1106,2012,12,19,2,I,Winston Chang
+112,1106,2012,12,19,2,I,Winston Chang
+116,1106,2012,12,5,2,I,Winston Chang
+118,1106,2012,12,3,1,I,Winston Chang
+120,1106,2012,12,3,1,I,Winston Chang
+124,1106,2012,10,30,2,I,Winston Chang
+125,1106,2012,12,17,1,I,Winston Chang
+125,1106,2013,1,16,2,I,Winston Chang
+126,1106,2012,12,15,3,I,Winston Chang
+129,1106,2012,12,15,4,I,Winston Chang
+130,1106,2012,12,15,3,I,Winston Chang
+134,1106,2012,12,11,3,I,Winston Chang
+135,1106,2012,12,11,3,I,Winston Chang
+140,1106,2012,11,3,1,I,Winston Chang
+146,1106,2012,9,12,8,I,Winston Chang
+147,1106,2012,8,29,2,I,Winston Chang
+148,1106,2012,8,24,3,I,Winston Chang
+151,1106,2012,8,16,10,I,Winston Chang
+152,1106,2012,8,13,3,I,Winston Chang
+155,1106,2012,8,11,10,I,Winston Chang
+158,1106,2012,8,10,52,I,Winston Chang
+162,1106,2012,7,26,3,I,Winston Chang
+162,1106,2012,8,15,1,I,Winston Chang
+163,1106,2012,7,23,2,I,Winston Chang
+163,1106,2012,8,9,2,I,Winston Chang
+171,1106,2012,5,21,3,I,Winston Chang
+210,1198,2013,9,14,2,I,Philip Kaufmann
+211,1198,2013,9,13,2,I,Philip Kaufmann
+212,1198,2013,9,13,2,I,Philip Kaufmann
+221,1207,2013,7,27,14,I,Pieter Wuille
+221,1207,2013,9,14,5,I,Pieter Wuille
+228,1207,2013,8,24,2,I,Pieter Wuille
+229,1198,2013,8,24,2,I,Philip Kaufmann
+240,1207,2013,7,25,1,I,Pieter Wuille
+243,1207,2013,7,24,3,I,Pieter Wuille
+244,1207,2013,7,20,2,I,Pieter Wuille
+249,1207,2013,1,11,2,I,Pieter Wuille
+250,1207,2013,6,24,1,I,Pieter Wuille
+251,1207,2013,6,22,1,I,Pieter Wuille
+281,1189,2013,9,5,2,I,Wladimir J. van der Laan
+282,1189,2013,9,5,1,I,Wladimir J. van der Laan
+283,1198,2013,9,4,1,I,Philip Kaufmann
+288,1198,2013,8,31,1,I,Philip Kaufmann
+289,1198,2013,8,30,1,I,Philip Kaufmann
+294,1189,2013,8,30,1,I,Wladimir J. van der Laan
+295,1189,2013,8,29,1,I,Wladimir J. van der Laan
+297,1198,2013,8,28,1,I,Philip Kaufmann
+300,1198,2013,8,25,1,I,Philip Kaufmann
+301,1198,2013,8,25,1,I,Philip Kaufmann
+303,1207,2013,8,24,1,I,Pieter Wuille
+304,1198,2013,8,24,1,I,Philip Kaufmann
+305,1198,2013,8,24,1,I,Philip Kaufmann
+307,1198,2013,8,23,1,I,Philip Kaufmann
+309,1198,2013,8,21,1,I,Philip Kaufmann
+314,1207,2013,8,20,2,I,Pieter Wuille
+320,1207,2013,8,17,2,I,Pieter Wuille
+326,1189,2013,5,19,1,I,Wladimir J. van der Laan
+326,1198,2013,6,23,2,I,Philip Kaufmann
+326,1198,2013,7,13,9,I,Philip Kaufmann
+326,1198,2013,8,5,2,I,Philip Kaufmann
+326,1207,2013,4,29,3,I,Pieter Wuille
+326,1207,2013,6,19,5,I,Pieter Wuille
+326,1207,2013,7,13,2,I,Pieter Wuille
+334,1198,2013,8,5,1,I,Philip Kaufmann
+336,1198,2013,8,5,1,I,Philip Kaufmann
+338,1207,2013,8,3,2,I,Pieter Wuille
+342,1198,2013,8,2,1,I,Philip Kaufmann
+347,1198,2013,7,29,1,I,Philip Kaufmann
+350,1198,2013,7,24,1,I,Philip Kaufmann
+351,1198,2013,7,23,1,I,Philip Kaufmann
+352,1198,2013,7,23,1,I,Philip Kaufmann
+355,1198,2013,7,23,1,I,Philip Kaufmann
+357,1198,2013,7,22,1,I,Philip Kaufmann
+358,1198,2013,7,22,1,I,Philip Kaufmann
+372,1207,2013,6,22,2,I,Pieter Wuille
+372,1207,2013,7,14,2,I,Pieter Wuille
+373,1106,2013,1,6,3,I,Winston Chang
+378,1198,2013,7,13,1,I,Philip Kaufmann
+380,1198,2013,7,13,1,I,Philip Kaufmann
+382,1207,2013,7,13,1,I,Pieter Wuille
+387,1207,2013,6,23,1,I,Pieter Wuille
+425,1207,2013,6,22,1,I,Pieter Wuille
+428,1207,2013,6,19,1,I,Pieter Wuille
+467,1189,2013,6,7,1,I,Wladimir J. van der Laan
+468,1189,2013,6,7,1,I,Wladimir J. van der Laan
+473,1198,2013,6,5,1,I,Philip Kaufmann
+480,1198,2013,6,3,1,I,Philip Kaufmann
+481,1198,2013,6,3,1,I,Philip Kaufmann
+483,1106,2012,12,14,4,I,Winston Chang
+485,1106,2013,2,13,13,I,Winston Chang
+490,1207,2013,5,29,1,I,Pieter Wuille
+493,1207,2013,6,29,1,I,Pieter Wuille
+505,1198,2013,5,22,1,I,Philip Kaufmann
+507,1207,2013,5,22,1,I,Pieter Wuille
+513,1106,2012,12,11,4,I,Winston Chang
+517,1207,2013,5,20,1,I,Pieter Wuille
+529,1189,2012,5,22,1,I,Wladimir J. van der Laan
+529,1189,2012,6,11,2,I,Wladimir J. van der Laan
+529,1198,2012,5,8,2,I,Philip Kaufmann
+529,1198,2012,6,11,3,I,Philip Kaufmann
+529,1207,2012,5,12,1,I,Pieter Wuille
+529,1207,2012,6,8,3,I,Pieter Wuille
+601,1198,2013,5,12,1,I,Philip Kaufmann
+603,1198,2013,5,12,1,I,Philip Kaufmann
+608,1207,2013,5,12,1,I,Pieter Wuille
+610,1207,2013,5,12,1,I,Pieter Wuille
+623,1198,2013,5,7,1,I,Philip Kaufmann
+636,1198,2013,5,6,1,I,Philip Kaufmann
+648,1198,2013,5,4,1,I,Philip Kaufmann
+662,1207,2013,5,2,1,I,Pieter Wuille
+670,1207,2013,5,1,1,I,Pieter Wuille
+672,1207,2013,5,1,1,I,Pieter Wuille
+675,1207,2013,4,30,2,I,Pieter Wuille
+675,1207,2013,5,4,1,I,Pieter Wuille
+678,1207,2013,4,30,1,I,Pieter Wuille
+682,1207,2013,4,30,1,I,Pieter Wuille
+684,1207,2013,4,29,3,I,Pieter Wuille
+687,1207,2013,4,28,3,I,Pieter Wuille
+693,1189,2013,4,27,1,I,Wladimir J. van der Laan
+697,1189,2013,4,27,1,I,Wladimir J. van der Laan
+700,1189,2013,4,27,1,I,Wladimir J. van der Laan
+701,1207,2013,4,26,1,I,Pieter Wuille
+711,1189,2013,4,25,1,I,Wladimir J. van der Laan
+713,1207,2013,4,25,1,I,Pieter Wuille
+716,1106,2013,1,15,11,I,Winston Chang
+719,1207,2013,4,25,1,I,Pieter Wuille
+722,1198,2013,4,25,1,I,Philip Kaufmann
+724,1198,2013,4,25,1,I,Philip Kaufmann
+728,1198,2013,2,23,1,I,Philip Kaufmann
+728,1207,2013,4,23,2,I,Pieter Wuille
+730,1207,2013,4,23,1,I,Pieter Wuille
+738,1198,2013,4,22,1,I,Philip Kaufmann
+744,1207,2013,4,18,1,I,Pieter Wuille
+749,1198,2013,4,18,1,I,Philip Kaufmann
+769,1198,2013,4,14,4,I,Philip Kaufmann
+771,1189,2013,4,14,1,I,Wladimir J. van der Laan
+775,1207,2013,4,13,1,I,Pieter Wuille
+777,1198,2013,4,10,1,I,Philip Kaufmann
+784,1189,2013,4,11,1,I,Wladimir J. van der Laan
+789,1198,2013,4,10,3,I,Philip Kaufmann
+792,1198,2013,4,10,1,I,Philip Kaufmann
+793,1198,2013,4,10,1,I,Philip Kaufmann
+798,1189,2013,4,13,3,I,Wladimir J. van der Laan
+798,1198,2013,4,8,1,I,Philip Kaufmann
+798,1207,2013,3,28,1,I,Pieter Wuille
+798,1207,2013,4,12,1,I,Pieter Wuille
+801,1198,2013,4,8,1,I,Philip Kaufmann
+803,1198,2013,4,7,1,I,Philip Kaufmann
+806,1198,2013,4,7,1,I,Philip Kaufmann
+808,1198,2013,4,7,1,I,Philip Kaufmann
+811,1198,2013,4,7,1,I,Philip Kaufmann
+812,1189,2013,4,6,1,I,Wladimir J. van der Laan
+816,1207,2013,4,6,1,I,Pieter Wuille
+821,1207,2013,4,6,1,I,Pieter Wuille
+822,1198,2013,4,6,1,I,Philip Kaufmann
+827,1198,2013,4,4,1,I,Philip Kaufmann
+828,1207,2013,4,7,2,I,Pieter Wuille
+830,1198,2013,4,4,1,I,Philip Kaufmann
+831,1198,2013,4,4,1,I,Philip Kaufmann
+832,1198,2013,4,4,1,I,Philip Kaufmann
+837,1198,2013,4,4,1,I,Philip Kaufmann
+842,1207,2013,4,3,1,I,Pieter Wuille
+845,1198,2013,4,3,1,I,Philip Kaufmann
+847,1198,2013,4,3,1,I,Philip Kaufmann
+850,1198,2013,4,3,1,I,Philip Kaufmann
+852,1198,2013,4,2,1,I,Philip Kaufmann
+855,1198,2013,4,2,1,I,Philip Kaufmann
+865,1198,2013,4,1,1,I,Philip Kaufmann
+867,1198,2013,4,1,1,I,Philip Kaufmann
+870,1189,2013,3,30,1,I,Wladimir J. van der Laan
+883,1189,2013,3,29,1,I,Wladimir J. van der Laan
+886,1207,2013,3,28,1,I,Pieter Wuille
+888,1207,2013,3,28,1,I,Pieter Wuille
+889,1207,2013,3,28,1,I,Pieter Wuille
+890,1207,2013,3,28,1,I,Pieter Wuille
+891,1198,2012,12,15,1,I,Philip Kaufmann
+894,1207,2013,2,28,1,I,Pieter Wuille
+894,1207,2013,3,29,2,I,Pieter Wuille
+907,1198,2013,3,20,2,I,Philip Kaufmann
+909,1198,2013,3,19,1,I,Philip Kaufmann
+917,1198,2013,3,18,1,I,Philip Kaufmann
+918,1198,2013,3,17,1,I,Philip Kaufmann
+919,1198,2013,3,17,1,I,Philip Kaufmann
+949,1198,2013,2,23,1,I,Philip Kaufmann
+959,1207,2013,2,16,1,I,Pieter Wuille
+960,1189,2013,2,16,1,I,Wladimir J. van der Laan
+964,1207,2013,2,16,1,I,Pieter Wuille
+965,1189,2013,2,10,1,I,Wladimir J. van der Laan
+965,1207,2013,2,10,1,I,Pieter Wuille
+966,1189,2013,2,10,1,I,Wladimir J. van der Laan
+966,1207,2013,2,13,2,I,Pieter Wuille
+969,1207,2013,2,10,1,I,Pieter Wuille
+970,1207,2013,2,10,1,I,Pieter Wuille
+974,1198,2013,2,6,1,I,Philip Kaufmann
+977,1207,2013,2,6,1,I,Pieter Wuille
+991,1198,2013,2,1,1,I,Philip Kaufmann
+1007,1207,2013,1,30,1,I,Pieter Wuille
+1032,1207,2013,1,28,2,I,Pieter Wuille
+1034,1207,2013,1,29,2,I,Pieter Wuille
+1035,1198,2013,1,27,1,I,Philip Kaufmann
+1036,1207,2013,1,28,5,I,Pieter Wuille
+1040,1207,2013,1,26,1,I,Pieter Wuille
+1042,1207,2013,1,20,1,I,Pieter Wuille
+1045,1198,2013,1,26,1,I,Philip Kaufmann
+1050,1198,2013,1,23,1,I,Philip Kaufmann
+1053,1198,2013,1,23,1,I,Philip Kaufmann
+1057,1207,2012,12,11,5,I,Pieter Wuille
+1064,1207,2012,12,11,5,I,Pieter Wuille
+1068,1198,2013,1,20,1,I,Philip Kaufmann
+1071,1198,2013,1,20,1,I,Philip Kaufmann
+1075,1207,2013,1,18,1,I,Pieter Wuille
+1086,1198,2013,1,14,1,I,Philip Kaufmann
+1090,1198,2013,1,14,2,I,Philip Kaufmann
+1093,1198,2013,1,11,1,I,Philip Kaufmann
+1095,1198,2013,1,11,1,I,Philip Kaufmann
+1100,1198,2013,1,10,1,I,Philip Kaufmann
+1103,1198,2013,1,10,1,I,Philip Kaufmann
+1114,1207,2013,1,9,1,I,Pieter Wuille
+1126,1198,2013,1,7,1,I,Philip Kaufmann
+1286,1198,2013,1,6,1,I,Philip Kaufmann
+1290,1198,2013,1,5,1,I,Philip Kaufmann
+1291,1198,2013,1,5,1,I,Philip Kaufmann
+1292,1207,2013,1,4,1,I,Pieter Wuille
+1299,1207,2012,12,30,2,I,Pieter Wuille
+1299,1207,2013,1,3,1,I,Pieter Wuille
+1302,1106,2012,8,19,22,I,Winston Chang
+1306,1198,2012,12,31,1,I,Philip Kaufmann
+1308,1198,2012,12,28,1,I,Philip Kaufmann
+1334,1207,2012,12,19,1,I,Pieter Wuille
+1341,1207,2012,12,18,1,I,Pieter Wuille
+1347,1198,2012,12,15,1,I,Philip Kaufmann
+1349,1198,2012,12,15,1,I,Philip Kaufmann
+1362,1106,2012,7,23,2,I,Winston Chang
+1362,1106,2012,8,13,13,I,Winston Chang
+1365,1198,2012,12,12,1,I,Philip Kaufmann
+1366,1198,2012,12,12,2,I,Philip Kaufmann
+1370,1198,2012,12,10,1,I,Philip Kaufmann
+1374,1198,2012,11,27,2,I,Philip Kaufmann
+1374,1198,2012,12,1,8,I,Philip Kaufmann
+1374,1207,2012,11,30,2,I,Pieter Wuille
+1374,1207,2012,12,19,8,I,Pieter Wuille
+1375,1106,2012,8,13,8,I,Winston Chang
+1383,1198,2012,12,3,1,I,Philip Kaufmann
+1386,1198,2012,12,3,1,I,Philip Kaufmann
+1387,1207,2012,12,2,1,I,Pieter Wuille
+1388,1207,2012,12,2,5,I,Pieter Wuille
+1388,1207,2013,1,23,1,I,Pieter Wuille
+1388,1207,2013,3,4,2,I,Pieter Wuille
+1391,1207,2012,12,1,1,I,Pieter Wuille
+1392,1198,2012,12,1,1,I,Philip Kaufmann
+1396,1207,2012,11,28,2,I,Pieter Wuille
+1398,1198,2012,11,27,1,I,Philip Kaufmann
+1400,1198,2012,11,27,1,I,Philip Kaufmann
+1403,1207,2012,11,24,1,I,Pieter Wuille
+1408,1198,2012,11,18,1,I,Philip Kaufmann
+1409,1189,2012,11,16,1,I,Wladimir J. van der Laan
+1410,1198,2012,11,16,1,I,Philip Kaufmann
+1411,1198,2012,11,16,1,I,Philip Kaufmann
+1412,1198,2012,11,15,1,I,Philip Kaufmann
+1416,1207,2012,11,14,1,I,Pieter Wuille
+1418,1198,2012,11,14,1,I,Philip Kaufmann
+1419,1198,2012,11,14,1,I,Philip Kaufmann
+1421,1207,2012,11,13,1,I,Pieter Wuille
+1423,1198,2012,11,11,1,I,Philip Kaufmann
+1427,1198,2012,11,10,1,I,Philip Kaufmann
+1428,1198,2012,11,9,1,I,Philip Kaufmann
+1430,1198,2012,11,8,1,I,Philip Kaufmann
+1434,1198,2012,11,4,1,I,Philip Kaufmann
+1441,1207,2012,11,4,1,I,Pieter Wuille
+1442,1207,2012,11,4,1,I,Pieter Wuille
+1443,1207,2012,11,4,1,I,Pieter Wuille
+1444,1207,2012,11,4,1,I,Pieter Wuille
+1445,1198,2012,11,4,1,I,Philip Kaufmann
+1446,1198,2012,11,4,1,I,Philip Kaufmann
+1448,1207,2012,11,2,1,I,Pieter Wuille
+1449,1207,2012,11,1,1,I,Pieter Wuille
+1454,1207,2012,10,28,1,I,Pieter Wuille
+1455,1207,2012,10,27,2,I,Pieter Wuille
+1456,1198,2012,10,25,1,I,Philip Kaufmann
+1458,1189,2012,10,24,1,I,Wladimir J. van der Laan
+1460,1198,2012,10,24,1,I,Philip Kaufmann
+1463,1207,2012,10,22,5,I,Pieter Wuille
+1466,1207,2012,10,27,4,I,Pieter Wuille
+1467,1198,2012,10,21,1,I,Philip Kaufmann
+1468,1198,2012,10,21,1,I,Philip Kaufmann
+1470,1207,2012,10,21,1,I,Pieter Wuille
+1471,1207,2012,10,21,1,I,Pieter Wuille
+1472,1207,2012,6,15,7,I,Pieter Wuille
+1472,1207,2012,7,1,4,I,Pieter Wuille
+1472,1207,2012,8,22,6,I,Pieter Wuille
+1472,1207,2012,9,3,8,I,Pieter Wuille
+1472,1207,2012,10,13,5,I,Pieter Wuille
+1473,1207,2012,10,19,1,I,Pieter Wuille
+1480,1189,2012,10,12,1,I,Wladimir J. van der Laan
+1483,1198,2012,10,12,2,I,Philip Kaufmann
+1484,1189,2012,10,11,1,I,Wladimir J. van der Laan
+1488,1198,2012,10,7,1,I,Philip Kaufmann
+1489,1198,2012,10,7,1,I,Philip Kaufmann
+1490,1207,2012,10,7,1,I,Pieter Wuille
+1491,1198,2012,10,5,1,I,Philip Kaufmann
+1492,1198,2012,10,5,1,I,Philip Kaufmann
+1494,1189,2012,10,3,2,I,Wladimir J. van der Laan
+1495,1189,2012,10,3,2,I,Wladimir J. van der Laan
+1496,1189,2012,10,3,1,I,Wladimir J. van der Laan
+1497,1189,2012,10,3,1,I,Wladimir J. van der Laan
+1498,1189,2012,10,3,1,I,Wladimir J. van der Laan
+1501,1198,2012,10,2,1,I,Philip Kaufmann
+1504,1189,2012,9,30,2,I,Wladimir J. van der Laan
+1504,1198,2012,9,29,1,I,Philip Kaufmann
+1505,1198,2012,9,30,1,I,Philip Kaufmann
+1508,1189,2012,9,29,1,I,Wladimir J. van der Laan
+1509,1198,2012,9,29,1,I,Philip Kaufmann
+1511,1207,2012,9,28,1,I,Pieter Wuille
+1514,1207,2012,9,28,1,I,Pieter Wuille
+1515,1189,2012,9,9,11,I,Wladimir J. van der Laan
+1515,1198,2012,7,16,1,I,Philip Kaufmann
+1515,1198,2012,8,14,4,I,Philip Kaufmann
+1515,1198,2012,9,7,6,I,Philip Kaufmann
+1515,1207,2012,9,12,1,I,Pieter Wuille
+1524,1198,2012,9,24,1,I,Philip Kaufmann
+1530,1198,2012,9,22,1,I,Philip Kaufmann
+1531,1198,2012,7,16,1,I,Philip Kaufmann
+1532,1198,2012,9,22,1,I,Philip Kaufmann
+1538,1198,2012,9,21,1,I,Philip Kaufmann
+1539,1198,2012,9,21,1,I,Philip Kaufmann
+1550,1207,2012,9,12,1,I,Pieter Wuille
+1557,1198,2012,9,9,1,I,Philip Kaufmann
+1558,1189,2012,9,9,1,I,Wladimir J. van der Laan
+1560,1189,2012,9,9,1,I,Wladimir J. van der Laan
+1561,1189,2012,9,9,4,I,Wladimir J. van der Laan
+1566,1198,2012,9,7,1,I,Philip Kaufmann
+1572,1198,2012,9,5,1,I,Philip Kaufmann
+1574,1198,2012,9,4,1,I,Philip Kaufmann
+1575,1198,2012,9,4,1,I,Philip Kaufmann
+1581,1198,2012,8,31,1,I,Philip Kaufmann
+1587,1198,2012,9,1,1,I,Philip Kaufmann
+1589,1189,2012,8,30,1,I,Wladimir J. van der Laan
+1590,1189,2012,9,3,2,I,Wladimir J. van der Laan
+1590,1198,2012,8,31,1,I,Philip Kaufmann
+1591,1198,2012,8,30,1,I,Philip Kaufmann
+1594,1198,2012,8,30,1,I,Philip Kaufmann
+1595,1198,2012,8,30,1,I,Philip Kaufmann
+1596,1189,2012,8,31,2,I,Wladimir J. van der Laan
+1598,1198,2012,8,30,1,I,Philip Kaufmann
+1600,1189,2012,8,29,1,I,Wladimir J. van der Laan
+1601,1198,2012,8,28,1,I,Philip Kaufmann
+1602,1189,2012,8,28,1,I,Wladimir J. van der Laan
+1604,1207,2012,8,28,1,I,Pieter Wuille
+1608,1207,2012,8,22,1,I,Pieter Wuille
+1615,1198,2012,8,27,1,I,Philip Kaufmann
+1616,1198,2012,8,27,1,I,Philip Kaufmann
+1622,1189,2012,8,24,1,I,Wladimir J. van der Laan
+1623,1189,2012,8,24,1,I,Wladimir J. van der Laan
+1624,1198,2012,8,24,1,I,Philip Kaufmann
+1625,1207,2012,8,24,1,I,Pieter Wuille
+1628,1189,2012,8,23,1,I,Wladimir J. van der Laan
+1629,1207,2012,8,23,1,I,Pieter Wuille
+1634,1198,2012,8,28,2,I,Philip Kaufmann
+1635,1189,2012,8,22,1,I,Wladimir J. van der Laan
+1636,1189,2012,8,22,1,I,Wladimir J. van der Laan
+1637,1189,2012,8,22,2,I,Wladimir J. van der Laan
+1639,1207,2012,8,21,1,I,Pieter Wuille
+1640,1207,2012,8,21,1,I,Pieter Wuille
+1642,1198,2012,8,21,1,I,Philip Kaufmann
+1647,1198,2012,8,18,1,I,Philip Kaufmann
+1648,1198,2012,8,18,1,I,Philip Kaufmann
+1652,1198,2012,8,17,1,I,Philip Kaufmann
+1653,1198,2012,8,16,1,I,Philip Kaufmann
+1654,1198,2012,8,16,1,I,Philip Kaufmann
+1656,1198,2012,8,14,1,I,Philip Kaufmann
+1660,1189,2012,8,7,1,I,Wladimir J. van der Laan
+1666,1198,2012,8,1,1,I,Philip Kaufmann
+1667,1198,2012,8,1,1,I,Philip Kaufmann
+1669,1198,2012,8,1,1,I,Philip Kaufmann
+1671,1106,2012,2,23,3,I,Winston Chang
+1672,1198,2012,8,1,1,I,Philip Kaufmann
+1675,1198,2012,7,29,1,I,Philip Kaufmann
+1675,1198,2012,8,1,1,I,Philip Kaufmann
+1676,1198,2012,7,26,1,I,Philip Kaufmann
+1681,1189,2012,7,25,1,I,Wladimir J. van der Laan
+1684,1198,2012,7,22,1,I,Philip Kaufmann
+1685,1198,2012,7,22,1,I,Philip Kaufmann
+1690,1198,2012,7,21,1,I,Philip Kaufmann
+1691,1198,2012,7,21,1,I,Philip Kaufmann
+1695,1198,2012,7,18,1,I,Philip Kaufmann
+1701,1189,2012,7,17,1,I,Wladimir J. van der Laan
+1702,1198,2012,7,16,1,I,Philip Kaufmann
+1703,1198,2012,7,14,1,I,Philip Kaufmann
+1708,1198,2012,7,12,1,I,Philip Kaufmann
+1709,1198,2012,7,12,1,I,Philip Kaufmann
+1710,1198,2012,7,12,1,I,Philip Kaufmann
+1712,1198,2012,7,12,1,I,Philip Kaufmann
+1713,1198,2012,7,12,1,I,Philip Kaufmann
+1715,1198,2012,7,11,1,I,Philip Kaufmann
+1716,1198,2012,7,11,1,I,Philip Kaufmann
+1717,1189,2012,7,11,1,I,Wladimir J. van der Laan
+1718,1198,2012,7,11,1,I,Philip Kaufmann
+1719,1189,2012,7,11,1,I,Wladimir J. van der Laan
+1721,1189,2012,7,10,1,I,Wladimir J. van der Laan
+1722,1198,2012,7,10,1,I,Philip Kaufmann
+1725,1198,2012,7,8,1,I,Philip Kaufmann
+1726,1207,2012,7,7,1,I,Pieter Wuille
+1727,1198,2012,7,7,1,I,Philip Kaufmann
+1730,1198,2012,7,6,1,I,Philip Kaufmann
+1737,1198,2012,7,3,1,I,Philip Kaufmann
+1744,1198,2012,6,30,1,I,Philip Kaufmann
+1748,1198,2012,6,29,1,I,Philip Kaufmann
+1759,1198,2012,6,25,1,I,Philip Kaufmann
+1760,1198,2012,6,24,1,I,Philip Kaufmann
+1761,1198,2012,6,24,1,I,Philip Kaufmann
+1762,1198,2012,6,24,1,I,Philip Kaufmann
+1776,1198,2012,6,21,1,I,Philip Kaufmann
+1781,1207,2012,6,20,1,I,Pieter Wuille
+1789,1198,2012,6,17,1,I,Philip Kaufmann
+1790,1198,2012,6,17,1,I,Philip Kaufmann
+1792,1198,2012,6,16,1,I,Philip Kaufmann
+1796,1198,2012,6,14,1,I,Philip Kaufmann
+1797,1198,2012,6,14,1,I,Philip Kaufmann
+1798,1207,2012,6,14,1,I,Pieter Wuille
+1799,1189,2012,6,14,1,I,Wladimir J. van der Laan
+1800,1189,2012,6,13,1,I,Wladimir J. van der Laan
+1804,1198,2012,6,13,1,I,Philip Kaufmann
+1805,1189,2012,6,13,1,I,Wladimir J. van der Laan
+1806,1198,2012,6,13,1,I,Philip Kaufmann
+1808,1198,2012,6,12,1,I,Philip Kaufmann
+1809,1189,2012,6,12,1,I,Wladimir J. van der Laan
+1810,1189,2012,6,11,1,I,Wladimir J. van der Laan
+1812,1198,2012,6,11,1,I,Philip Kaufmann
+1823,1198,2012,6,4,1,I,Philip Kaufmann
+1824,1198,2012,6,4,1,I,Philip Kaufmann
+1825,1198,2012,6,4,1,I,Philip Kaufmann
+1826,1198,2012,6,4,1,I,Philip Kaufmann
+1827,1198,2012,6,4,1,I,Philip Kaufmann
+1830,1198,2012,6,3,1,I,Philip Kaufmann
+1838,1198,2012,5,31,1,I,Philip Kaufmann
+1847,1198,2012,5,24,1,I,Philip Kaufmann
+1848,1198,2012,5,24,1,I,Philip Kaufmann
+1854,1189,2012,5,22,1,I,Wladimir J. van der Laan
+1862,1207,2012,5,21,1,I,Pieter Wuille
+1863,1198,2012,5,21,1,I,Philip Kaufmann
+1866,1198,2012,5,20,1,I,Philip Kaufmann
+1867,1198,2012,5,20,1,I,Philip Kaufmann
+1868,1198,2012,5,19,1,I,Philip Kaufmann
+1869,1189,2012,5,19,1,I,Wladimir J. van der Laan
+1873,1207,2012,5,14,2,I,Pieter Wuille
+1876,1198,2012,5,18,1,I,Philip Kaufmann
+1883,1189,2012,5,17,1,I,Wladimir J. van der Laan
+1884,1198,2012,5,17,1,I,Philip Kaufmann
+1893,1189,2012,5,17,1,I,Wladimir J. van der Laan
+1897,1198,2012,5,17,1,I,Philip Kaufmann
+1900,1189,2012,5,17,2,I,Wladimir J. van der Laan
+1903,1189,2012,5,16,1,I,Wladimir J. van der Laan
+1904,1198,2012,5,16,1,I,Philip Kaufmann
+1905,1198,2012,5,16,1,I,Philip Kaufmann
+1906,1189,2012,5,15,1,I,Wladimir J. van der Laan
+1907,1198,2012,5,15,1,I,Philip Kaufmann
+1908,1198,2012,5,15,1,I,Philip Kaufmann
+1910,1207,2012,5,7,1,I,Pieter Wuille
+1914,1198,2012,5,14,1,I,Philip Kaufmann
+1919,1189,2012,5,14,1,I,Wladimir J. van der Laan
+1920,1189,2012,5,14,1,I,Wladimir J. van der Laan
+1922,1207,2012,5,14,3,I,Pieter Wuille
+1924,1198,2012,5,13,1,I,Philip Kaufmann
+1929,1207,2012,5,13,1,I,Pieter Wuille
+1934,1207,2012,5,13,1,I,Pieter Wuille
+1935,1189,2012,5,13,1,I,Wladimir J. van der Laan
+1936,1189,2012,5,12,1,I,Wladimir J. van der Laan
+1939,1198,2012,5,12,1,I,Philip Kaufmann
+1940,1198,2012,5,12,1,I,Philip Kaufmann
+1941,1198,2012,5,12,1,I,Philip Kaufmann
+1942,1207,2012,5,12,4,I,Pieter Wuille
+1944,1189,2012,5,12,1,I,Wladimir J. van der Laan
+1945,1189,2012,5,12,2,I,Wladimir J. van der Laan
+1946,1198,2012,5,12,1,I,Philip Kaufmann
+1947,1198,2012,5,12,1,I,Philip Kaufmann
+1948,1198,2012,5,12,1,I,Philip Kaufmann
+1949,1189,2012,5,11,1,I,Wladimir J. van der Laan
+1951,1198,2012,5,11,1,I,Philip Kaufmann
+1952,1198,2012,5,11,1,I,Philip Kaufmann
+1953,1189,2012,5,11,1,I,Wladimir J. van der Laan
+1954,1207,2012,5,11,3,I,Pieter Wuille
+1955,1198,2012,5,11,1,I,Philip Kaufmann
+1956,1198,2012,5,11,1,I,Philip Kaufmann
+1957,1198,2012,5,11,1,I,Philip Kaufmann
+1958,1207,2012,5,10,1,I,Pieter Wuille
+1960,1207,2012,5,10,2,I,Pieter Wuille
+1961,1198,2012,5,10,1,I,Philip Kaufmann
+1962,1198,2012,5,10,1,I,Philip Kaufmann
+1963,1198,2012,5,9,1,I,Philip Kaufmann
+1966,1189,2012,5,9,2,I,Wladimir J. van der Laan
+1968,1198,2012,5,9,1,I,Philip Kaufmann
+1969,1198,2012,5,9,1,I,Philip Kaufmann
+1971,1198,2012,5,9,1,I,Philip Kaufmann
+1974,1207,2012,5,8,1,I,Pieter Wuille
+1975,1198,2012,5,8,1,I,Philip Kaufmann
+1976,1198,2012,5,8,1,I,Philip Kaufmann
+1977,1198,2012,5,7,1,I,Philip Kaufmann
+1978,1189,2012,5,8,2,I,Wladimir J. van der Laan
+1983,1198,2012,5,6,1,I,Philip Kaufmann
+1985,1189,2012,5,5,1,I,Wladimir J. van der Laan
+1987,1207,2012,5,5,3,I,Pieter Wuille
+1988,1198,2012,5,5,1,I,Philip Kaufmann
+1989,1189,2012,5,18,4,I,Wladimir J. van der Laan
+1990,1198,2012,5,5,1,I,Philip Kaufmann
+1991,1198,2012,5,5,1,I,Philip Kaufmann
+1993,1198,2012,5,5,1,I,Philip Kaufmann
+1994,1198,2012,5,5,1,I,Philip Kaufmann
+1995,1189,2012,5,4,1,I,Wladimir J. van der Laan
+1996,1189,2012,5,4,1,I,Wladimir J. van der Laan
+1999,1207,2012,5,4,1,I,Pieter Wuille
+2000,1198,2012,5,4,1,I,Philip Kaufmann
+2001,1189,2012,5,4,1,I,Wladimir J. van der Laan
+2003,1198,2012,5,3,1,I,Philip Kaufmann
+2006,1198,2012,5,1,1,I,Philip Kaufmann
+2008,1189,2012,5,1,1,I,Wladimir J. van der Laan
+2009,1198,2012,5,1,1,I,Philip Kaufmann
+2010,1198,2012,5,1,1,I,Philip Kaufmann
+2012,1198,2012,4,30,1,I,Philip Kaufmann
+2013,1198,2012,4,30,1,I,Philip Kaufmann
+2014,1198,2012,4,30,2,I,Philip Kaufmann
+2017,1189,2012,4,29,1,I,Wladimir J. van der Laan
+2018,1207,2012,4,28,1,I,Pieter Wuille
+2026,1198,2012,4,22,1,I,Philip Kaufmann
+2030,1207,2012,4,22,1,I,Pieter Wuille
+2031,1189,2012,4,21,1,I,Wladimir J. van der Laan
+2032,1189,2012,4,21,3,I,Wladimir J. van der Laan
+2035,1207,2012,4,20,2,I,Pieter Wuille
+2039,1207,2012,4,17,1,I,Pieter Wuille
+2040,1207,2012,4,17,1,I,Pieter Wuille
+2041,1189,2012,4,16,2,I,Wladimir J. van der Laan
+2042,1207,2012,4,17,1,I,Pieter Wuille
+2044,1207,2012,4,16,2,I,Pieter Wuille
+2045,1207,2012,4,15,1,I,Pieter Wuille
+2048,1189,2012,4,15,9,I,Wladimir J. van der Laan
+2053,1189,2012,4,13,1,I,Wladimir J. van der Laan
+2054,1189,2012,4,13,1,I,Wladimir J. van der Laan
+2058,1189,2012,4,13,1,I,Wladimir J. van der Laan
+2059,1198,2012,4,13,1,I,Philip Kaufmann
+2060,1189,2012,4,13,1,I,Wladimir J. van der Laan
+2061,1189,2012,4,12,1,I,Wladimir J. van der Laan
+2063,1207,2012,4,12,1,I,Pieter Wuille
+2065,1189,2012,4,11,1,I,Wladimir J. van der Laan
+2073,1207,2012,4,10,1,I,Pieter Wuille
+2075,1189,2012,4,9,1,I,Wladimir J. van der Laan
+2096,1207,2012,4,5,1,I,Pieter Wuille
+2097,1198,2012,4,4,1,I,Philip Kaufmann
+2104,1207,2012,4,4,1,I,Pieter Wuille
+2106,1198,2012,4,2,2,I,Philip Kaufmann
+2115,1207,2012,4,4,2,I,Pieter Wuille
+2117,1198,2012,4,3,1,I,Philip Kaufmann
+2125,1189,2012,4,2,1,I,Wladimir J. van der Laan
+2135,1198,2012,4,1,1,I,Philip Kaufmann
+2140,1189,2012,3,31,9,I,Wladimir J. van der Laan
+2140,1189,2012,4,4,1,I,Wladimir J. van der Laan
+2144,1207,2012,3,26,1,I,Pieter Wuille
+2149,1198,2012,3,30,1,I,Philip Kaufmann
+2153,1207,2012,3,28,1,I,Pieter Wuille
+2159,1198,2012,3,28,1,I,Philip Kaufmann
+2169,1198,2012,3,27,1,I,Philip Kaufmann
+2172,1198,2012,3,26,1,I,Philip Kaufmann
+2174,1198,2012,3,26,1,I,Philip Kaufmann
+2177,1207,2012,3,26,1,I,Pieter Wuille
+2183,1207,2012,3,26,1,I,Pieter Wuille
+2188,1198,2012,3,25,1,I,Philip Kaufmann
+2203,1189,2012,3,24,1,I,Wladimir J. van der Laan
+2213,1198,2012,3,22,3,I,Philip Kaufmann
+2214,1207,2012,3,21,1,I,Pieter Wuille
+2216,1207,2012,3,21,1,I,Pieter Wuille
+2219,1207,2012,3,21,1,I,Pieter Wuille
+2221,1198,2012,3,31,3,I,Philip Kaufmann
+2221,1198,2012,4,6,1,I,Philip Kaufmann
+2226,1189,2012,3,21,1,I,Wladimir J. van der Laan
+2228,1198,2012,3,20,1,I,Philip Kaufmann
+2236,1207,2012,3,20,1,I,Pieter Wuille
+2238,1198,2012,3,20,1,I,Philip Kaufmann
+2239,1189,2012,3,20,1,I,Wladimir J. van der Laan
+2242,1198,2012,3,20,2,I,Philip Kaufmann
+2243,1198,2012,3,19,2,I,Philip Kaufmann
+2245,1207,2012,3,18,1,I,Pieter Wuille
+2246,1189,2012,3,18,1,I,Wladimir J. van der Laan
+2247,1207,2012,3,18,1,I,Pieter Wuille
+2250,1198,2012,3,16,1,I,Philip Kaufmann
+2251,1189,2012,3,15,1,I,Wladimir J. van der Laan
+2271,1207,2012,2,26,2,I,Pieter Wuille
+2272,1189,2012,2,26,1,I,Wladimir J. van der Laan
+2273,1207,2012,2,25,1,I,Pieter Wuille
+2274,1207,2012,2,25,1,I,Pieter Wuille
+2276,1189,2012,2,25,1,I,Wladimir J. van der Laan
+2277,1207,2012,2,25,1,I,Pieter Wuille
+2289,1207,2012,2,21,1,I,Pieter Wuille
+2290,1207,2012,2,20,1,I,Pieter Wuille
+2293,1207,2012,2,19,1,I,Pieter Wuille
+2294,1207,2012,2,19,1,I,Pieter Wuille
+2295,1207,2012,2,19,1,I,Pieter Wuille
+2296,1207,2012,2,19,1,I,Pieter Wuille
+2297,1207,2012,2,19,1,I,Pieter Wuille
+2298,1189,2012,2,19,1,I,Wladimir J. van der Laan
+2299,1207,2012,2,18,1,I,Pieter Wuille
+2300,1207,2012,2,18,3,I,Pieter Wuille
+2301,1207,2012,2,18,1,I,Pieter Wuille
+2303,1189,2012,2,17,1,I,Wladimir J. van der Laan
+2304,1189,2012,2,17,1,I,Wladimir J. van der Laan
+2305,1189,2012,2,17,1,I,Wladimir J. van der Laan
+2307,1189,2012,2,17,1,I,Wladimir J. van der Laan
+2308,1189,2012,2,17,2,I,Wladimir J. van der Laan
+2312,1207,2012,2,15,1,I,Pieter Wuille
+2314,1207,2012,2,15,1,I,Pieter Wuille
+2316,1189,2012,2,15,2,I,Wladimir J. van der Laan
+2320,1207,2012,2,19,2,I,Pieter Wuille
+2321,1207,2012,2,11,3,I,Pieter Wuille
+2322,1207,2012,2,11,1,I,Pieter Wuille
+2324,1207,2012,2,11,1,I,Pieter Wuille
+2325,1207,2012,2,11,1,I,Pieter Wuille
+2326,1189,2012,2,9,1,I,Wladimir J. van der Laan
+2328,1207,2012,2,9,1,I,Pieter Wuille
+2332,1207,2012,2,7,1,I,Pieter Wuille
+2343,1207,2012,1,4,1,I,Pieter Wuille
+2344,1207,2012,1,26,1,I,Pieter Wuille
+2345,1207,2012,1,24,1,I,Pieter Wuille
+2360,1189,2012,1,16,3,I,Wladimir J. van der Laan
+2368,1189,2012,1,5,1,I,Wladimir J. van der Laan
+2370,1189,2012,1,3,1,I,Wladimir J. van der Laan
+2373,1207,2012,1,2,1,I,Pieter Wuille
+2375,1207,2012,1,3,1,I,Pieter Wuille
+2378,1189,2011,12,28,1,I,Wladimir J. van der Laan
+2380,1189,2011,12,27,1,I,Wladimir J. van der Laan
+2422,1189,2011,12,13,1,I,Wladimir J. van der Laan
+2425,1189,2011,12,13,1,I,Wladimir J. van der Laan
+2429,1189,2011,12,9,1,I,Wladimir J. van der Laan
+2438,1189,2011,11,11,2,I,Wladimir J. van der Laan
+2438,1189,2011,12,4,2,I,Wladimir J. van der Laan
+2458,1189,2011,11,25,1,I,Wladimir J. van der Laan
+2474,1207,2011,11,20,1,I,Pieter Wuille
+2474,1207,2011,12,25,1,I,Pieter Wuille
+2474,1207,2012,1,8,1,I,Pieter Wuille
+2478,1189,2011,11,11,1,I,Wladimir J. van der Laan
+2478,1207,2011,11,10,1,I,Pieter Wuille
+2481,1189,2011,11,13,3,I,Wladimir J. van der Laan
+2483,1189,2011,11,12,1,I,Wladimir J. van der Laan
+2492,1189,2011,11,8,1,I,Wladimir J. van der Laan
+2493,1189,2011,11,8,1,I,Wladimir J. van der Laan
+2496,1207,2011,11,6,1,I,Pieter Wuille
+2506,1189,2011,11,3,1,I,Wladimir J. van der Laan
+2512,1189,2011,10,29,2,I,Wladimir J. van der Laan
+2519,1189,2011,10,23,1,I,Wladimir J. van der Laan
+2530,1189,2011,9,30,2,I,Wladimir J. van der Laan
+2530,1189,2011,10,9,5,I,Wladimir J. van der Laan
+2543,1207,2011,6,28,1,I,Pieter Wuille
+2543,1207,2011,7,13,4,I,Pieter Wuille
+2588,1189,2011,9,30,1,I,Wladimir J. van der Laan
+2591,1189,2011,9,29,1,I,Wladimir J. van der Laan
+2596,1189,2011,9,29,11,I,Wladimir J. van der Laan
+2627,1207,2011,9,22,1,I,Pieter Wuille
+2631,1207,2011,4,25,1,I,Pieter Wuille
+2631,1207,2011,9,21,5,I,Pieter Wuille
+2637,1207,2011,9,19,1,I,Pieter Wuille
+2640,1189,2011,6,11,73,I,Wladimir J. van der Laan
+2640,1189,2011,7,1,114,I,Wladimir J. van der Laan
+2640,1189,2011,8,8,32,I,Wladimir J. van der Laan
+2640,1189,2011,9,18,18,I,Wladimir J. van der Laan
+2780,1207,2011,8,3,1,I,Pieter Wuille
+2803,1207,2011,7,26,1,I,Pieter Wuille
+2805,1189,2011,7,26,1,I,Wladimir J. van der Laan
+2813,1207,2011,7,24,1,I,Pieter Wuille
+2816,1207,2011,7,26,2,I,Pieter Wuille
+2868,1207,2011,7,13,1,I,Pieter Wuille
+2871,1207,2011,7,18,4,I,Pieter Wuille
+2903,1189,2011,7,8,1,I,Wladimir J. van der Laan
+2906,1189,2011,7,7,1,I,Wladimir J. van der Laan
+2917,1207,2011,7,5,1,I,Pieter Wuille
+2939,1207,2011,6,30,1,I,Pieter Wuille
+2956,1207,2011,6,25,1,I,Pieter Wuille
+2970,1207,2011,6,25,1,I,Pieter Wuille
+2970,1207,2011,7,3,1,I,Pieter Wuille
+2975,1189,2011,6,26,1,I,Wladimir J. van der Laan
+2979,1207,2011,6,25,1,I,Pieter Wuille
+2991,1189,2011,6,27,1,I,Wladimir J. van der Laan
+2994,1207,2011,6,19,1,I,Pieter Wuille
+3001,1189,2011,6,18,1,I,Wladimir J. van der Laan
+3021,1207,2011,6,3,1,I,Pieter Wuille
+93589,102870,2009,3,31,1,O,Josh Suereth
+93590,102870,2009,4,21,2,O,Josh Suereth
+93591,102870,2009,5,22,3,O,Josh Suereth
+93592,102870,2009,6,19,1,O,Josh Suereth
+93593,102870,2011,12,29,16,O,Josh Suereth
+93594,102870,2012,1,20,3,O,Josh Suereth
+93595,102870,2012,2,27,12,O,Josh Suereth
+93596,102870,2012,3,3,34,O,Josh Suereth
+93597,102870,2012,4,3,5,O,Josh Suereth
+93598,102870,2012,5,25,29,O,Josh Suereth
+93599,102870,2012,6,5,47,O,Josh Suereth
+93600,102870,2012,7,25,34,O,Josh Suereth
+93601,102870,2012,8,19,68,O,Josh Suereth
+93602,102870,2012,9,4,71,O,Josh Suereth
+93603,102870,2012,10,9,37,O,Josh Suereth
+93604,102870,2012,11,20,25,O,Josh Suereth
+93605,102870,2013,9,5,1,O,Josh Suereth
+93629,181475,2012,1,21,1,O,Jason Zaugg
+93630,181475,2012,2,4,1,O,Jason Zaugg
+93631,181475,2012,3,3,1,O,Jason Zaugg
+93632,181475,2012,5,24,34,O,Jason Zaugg
+93633,181475,2012,6,29,15,O,Jason Zaugg
+93634,181475,2012,7,6,6,O,Jason Zaugg
+93635,181475,2012,8,23,2,O,Jason Zaugg
+93636,181475,2012,9,22,6,O,Jason Zaugg
+93637,181475,2012,10,24,8,O,Jason Zaugg
+93638,181475,2012,11,3,18,O,Jason Zaugg
+93639,181475,2012,12,4,23,O,Jason Zaugg
+93640,181475,2013,1,21,55,O,Jason Zaugg
+93641,181475,2013,2,26,20,O,Jason Zaugg
+93642,181475,2013,3,4,28,O,Jason Zaugg
+93643,181475,2013,4,23,62,O,Jason Zaugg
+93644,181475,2013,5,27,36,O,Jason Zaugg
+93645,181475,2013,6,24,25,O,Jason Zaugg
+93646,181475,2013,7,15,14,O,Jason Zaugg
+93647,181475,2013,8,22,44,O,Jason Zaugg
+93648,181475,2013,9,16,77,O,Jason Zaugg
+93649,181475,2013,10,2,1,O,Jason Zaugg
+93652,189964,2009,2,28,53,O,Paul Phillips
+93653,189964,2009,3,31,31,O,Paul Phillips
+93654,189964,2009,4,30,29,O,Paul Phillips
+93655,189964,2009,5,30,80,O,Paul Phillips
+93656,189964,2009,6,30,74,O,Paul Phillips
+93657,189964,2009,7,26,56,O,Paul Phillips
+93658,189964,2009,8,31,86,O,Paul Phillips
+93659,189964,2009,9,30,73,O,Paul Phillips
+93660,189964,2009,10,28,103,O,Paul Phillips
+93661,189964,2009,11,10,14,O,Paul Phillips
+93662,189964,2011,9,9,1,O,Paul Phillips
+93663,189964,2011,10,31,1,O,Paul Phillips
+93664,189964,2011,11,30,1,O,Paul Phillips
+93665,189964,2011,12,9,86,O,Paul Phillips
+93666,189964,2012,1,5,121,O,Paul Phillips
+93667,189964,2012,2,23,124,O,Paul Phillips
+93668,189964,2012,3,5,101,O,Paul Phillips
+93669,189964,2012,4,12,121,O,Paul Phillips
+93670,189964,2012,5,7,102,O,Paul Phillips
+93671,189964,2012,6,10,11,O,Paul Phillips
+93672,189964,2012,7,30,52,O,Paul Phillips
+93673,189964,2012,8,16,47,O,Paul Phillips
+93674,189964,2012,9,29,97,O,Paul Phillips
+93675,189964,2012,10,29,35,O,Paul Phillips
+93676,189964,2012,11,3,33,O,Paul Phillips
+93677,189964,2012,12,30,45,O,Paul Phillips
+93678,189964,2013,1,19,77,O,Paul Phillips
+93679,189964,2013,2,27,12,O,Paul Phillips
+93680,189964,2013,3,23,40,O,Paul Phillips
+93681,189964,2013,4,26,91,O,Paul Phillips
+93682,189964,2013,5,2,78,O,Paul Phillips
+93683,189964,2013,6,26,18,O,Paul Phillips
+93684,189964,2013,7,23,3,O,Paul Phillips
+93685,189964,2013,8,29,54,O,Paul Phillips
+93686,189964,2013,9,17,27,O,Paul Phillips
+93687,189964,2013,10,1,4,O,Paul Phillips
+93697,205309,2006,1,19,2,O,Philipp Haller
+93698,205309,2006,6,23,5,O,Philipp Haller
+93699,205309,2006,7,31,9,O,Philipp Haller
+93700,205309,2006,8,11,4,O,Philipp Haller
+93701,205309,2006,9,30,7,O,Philipp Haller
+93702,205309,2006,10,31,18,O,Philipp Haller
+93703,205309,2006,11,21,20,O,Philipp Haller
+93704,205309,2006,12,5,1,O,Philipp Haller
+93705,205309,2007,1,31,16,O,Philipp Haller
+93706,205309,2007,2,27,17,O,Philipp Haller
+93707,205309,2007,3,16,6,O,Philipp Haller
+93708,205309,2007,4,30,10,O,Philipp Haller
+93709,205309,2007,5,21,14,O,Philipp Haller
+93710,205309,2007,6,19,3,O,Philipp Haller
+93711,205309,2007,7,13,13,O,Philipp Haller
+93712,205309,2007,8,21,3,O,Philipp Haller
+93713,205309,2007,9,24,15,O,Philipp Haller
+93714,205309,2007,10,2,1,O,Philipp Haller
+93715,205309,2007,11,29,7,O,Philipp Haller
+93716,205309,2007,12,2,1,O,Philipp Haller
+93717,205309,2008,1,24,3,O,Philipp Haller
+93718,205309,2008,2,29,29,O,Philipp Haller
+93719,205309,2008,3,13,16,O,Philipp Haller
+93720,205309,2008,4,23,13,O,Philipp Haller
+93721,205309,2008,5,28,7,O,Philipp Haller
+93722,205309,2008,6,18,1,O,Philipp Haller
+93723,205309,2008,7,30,17,O,Philipp Haller
+93724,205309,2008,8,29,19,O,Philipp Haller
+93725,205309,2008,9,29,13,O,Philipp Haller
+93726,205309,2008,10,31,18,O,Philipp Haller
+93727,205309,2008,11,26,6,O,Philipp Haller
+93728,205309,2008,12,18,6,O,Philipp Haller
+93729,205309,2009,1,30,16,O,Philipp Haller
+93730,205309,2009,2,26,3,O,Philipp Haller
+93731,205309,2009,3,25,1,O,Philipp Haller
+93732,205309,2009,4,21,5,O,Philipp Haller
+93733,205309,2009,5,31,36,O,Philipp Haller
+93734,205309,2009,6,30,18,O,Philipp Haller
+93735,205309,2009,7,31,26,O,Philipp Haller
+93736,205309,2009,8,24,11,O,Philipp Haller
+93737,205309,2009,9,30,18,O,Philipp Haller
+93738,205309,2009,10,30,19,O,Philipp Haller
+93739,205309,2009,11,9,9,O,Philipp Haller
+93740,205309,2012,2,19,1,O,Philipp Haller
+93741,205309,2012,4,15,5,O,Philipp Haller
+93742,205309,2012,5,22,12,O,Philipp Haller
+93743,205309,2012,6,15,3,O,Philipp Haller
+93744,205309,2012,7,23,4,O,Philipp Haller
+93745,205309,2012,8,20,3,O,Philipp Haller
+93746,205309,2012,9,29,1,O,Philipp Haller
+93747,205309,2012,10,9,1,O,Philipp Haller
+93748,205309,2012,11,13,1,O,Philipp Haller
+93749,205309,2012,12,7,1,O,Philipp Haller
+93750,205309,2013,1,31,1,O,Philipp Haller
+93751,205309,2013,5,7,1,O,Philipp Haller
+93752,205309,2013,6,26,1,O,Philipp Haller
+93776,205560,2007,2,22,2,O,Adriaan Moors
+93777,205560,2007,3,29,3,O,Adriaan Moors
+93778,205560,2007,4,25,16,O,Adriaan Moors
+93779,205560,2007,5,30,10,O,Adriaan Moors
+93780,205560,2007,6,20,2,O,Adriaan Moors
+93781,205560,2007,7,20,22,O,Adriaan Moors
+93782,205560,2007,8,22,5,O,Adriaan Moors
+93783,205560,2007,9,26,1,O,Adriaan Moors
+93784,205560,2007,11,27,1,O,Adriaan Moors
+93785,205560,2008,2,8,6,O,Adriaan Moors
+93786,205560,2008,7,15,1,O,Adriaan Moors
+93787,205560,2008,11,25,1,O,Adriaan Moors
+93788,205560,2009,6,4,1,O,Adriaan Moors
+93789,205560,2009,7,19,1,O,Adriaan Moors
+93790,205560,2009,8,24,18,O,Adriaan Moors
+93791,205560,2009,9,29,4,O,Adriaan Moors
+93792,205560,2009,10,29,18,O,Adriaan Moors
+93793,205560,2009,11,11,11,O,Adriaan Moors
+93794,205560,2011,11,25,3,O,Adriaan Moors
+93795,205560,2011,12,28,6,O,Adriaan Moors
+93796,205560,2012,1,8,1,O,Adriaan Moors
+93797,205560,2012,2,28,8,O,Adriaan Moors
+93798,205560,2012,3,29,38,O,Adriaan Moors
+93799,205560,2012,4,26,28,O,Adriaan Moors
+93800,205560,2012,5,31,68,O,Adriaan Moors
+93801,205560,2012,6,20,54,O,Adriaan Moors
+93802,205560,2012,7,2,133,O,Adriaan Moors
+93803,205560,2012,8,8,39,O,Adriaan Moors
+93804,205560,2012,10,13,9,O,Adriaan Moors
+93805,205560,2012,11,19,37,O,Adriaan Moors
+93806,205560,2012,12,5,52,O,Adriaan Moors
+93807,205560,2013,1,28,45,O,Adriaan Moors
+93808,205560,2013,2,27,42,O,Adriaan Moors
+93809,205560,2013,3,1,57,O,Adriaan Moors
+93810,205560,2013,4,12,36,O,Adriaan Moors
+93811,205560,2013,5,17,29,O,Adriaan Moors
+93812,205560,2013,6,15,26,O,Adriaan Moors
+93813,205560,2013,7,18,39,O,Adriaan Moors
+93814,205560,2013,8,15,42,O,Adriaan Moors
+93815,205560,2013,9,24,1,O,Adriaan Moors
+93816,205560,2013,10,3,2,O,Adriaan Moors
+93861,207775,2011,12,24,14,O,Eugene Burmako
+93862,207775,2012,1,31,13,O,Eugene Burmako
+93863,207775,2012,2,29,20,O,Eugene Burmako
+93864,207775,2012,4,27,38,O,Eugene Burmako
+93865,207775,2012,5,17,14,O,Eugene Burmako
+93866,207775,2012,6,30,49,O,Eugene Burmako
+93867,207775,2012,7,11,44,O,Eugene Burmako
+93868,207775,2012,8,25,64,O,Eugene Burmako
+93869,207775,2012,9,27,92,O,Eugene Burmako
+93870,207775,2012,10,8,25,O,Eugene Burmako
+93871,207775,2012,11,29,17,O,Eugene Burmako
+93872,207775,2012,12,25,23,O,Eugene Burmako
+93873,207775,2013,1,29,16,O,Eugene Burmako
+93874,207775,2013,2,27,41,O,Eugene Burmako
+93875,207775,2013,3,20,13,O,Eugene Burmako
+93876,207775,2013,4,30,11,O,Eugene Burmako
+93877,207775,2013,5,20,16,O,Eugene Burmako
+93878,207775,2013,6,27,6,O,Eugene Burmako
+93879,207775,2013,7,30,9,O,Eugene Burmako
+93880,207775,2013,8,28,16,O,Eugene Burmako
+93881,207775,2013,9,30,3,O,Eugene Burmako
+93901,207798,2005,11,2,1,O,Lex Spoon
+93902,207798,2005,12,28,6,O,Lex Spoon
+93903,207798,2006,1,27,9,O,Lex Spoon
+93904,207798,2006,2,28,25,O,Lex Spoon
+93905,207798,2006,3,31,23,O,Lex Spoon
+93906,207798,2006,4,27,10,O,Lex Spoon
+93907,207798,2006,5,26,24,O,Lex Spoon
+93908,207798,2006,6,30,42,O,Lex Spoon
+93909,207798,2006,7,26,31,O,Lex Spoon
+93910,207798,2006,8,24,7,O,Lex Spoon
+93911,207798,2006,9,21,7,O,Lex Spoon
+93912,207798,2006,10,27,3,O,Lex Spoon
+93913,207798,2006,11,29,17,O,Lex Spoon
+93914,207798,2006,12,1,1,O,Lex Spoon
+93915,207798,2007,1,30,27,O,Lex Spoon
+93916,207798,2007,3,31,24,O,Lex Spoon
+93917,207798,2007,4,25,18,O,Lex Spoon
+93918,207798,2007,5,30,29,O,Lex Spoon
+93919,207798,2007,6,20,23,O,Lex Spoon
+93920,207798,2007,7,26,26,O,Lex Spoon
+93921,207798,2007,8,23,7,O,Lex Spoon
+93922,207798,2007,9,4,8,O,Lex Spoon
+93923,207798,2007,10,14,23,O,Lex Spoon
+93924,207798,2007,11,30,6,O,Lex Spoon
+93925,207798,2007,12,31,6,O,Lex Spoon
+93926,207798,2008,1,2,2,O,Lex Spoon
+93927,207798,2008,2,22,9,O,Lex Spoon
+93928,207798,2008,3,16,2,O,Lex Spoon
+93929,207798,2008,4,6,1,O,Lex Spoon
+93930,207798,2008,5,25,3,O,Lex Spoon
+93931,207798,2008,8,19,1,O,Lex Spoon
+93932,207798,2008,9,16,1,O,Lex Spoon
+93933,207798,2009,2,6,1,O,Lex Spoon
+93943,207854,2004,6,22,6,O,Iulian Dragos
+93944,207854,2004,7,5,3,O,Iulian Dragos
+93945,207854,2004,10,21,4,O,Iulian Dragos
+93946,207854,2004,11,22,3,O,Iulian Dragos
+93947,207854,2005,4,26,2,O,Iulian Dragos
+93948,207854,2005,6,29,4,O,Iulian Dragos
+93949,207854,2005,7,27,5,O,Iulian Dragos
+93950,207854,2005,8,22,2,O,Iulian Dragos
+93951,207854,2005,9,28,14,O,Iulian Dragos
+93952,207854,2005,10,27,17,O,Iulian Dragos
+93953,207854,2005,11,30,21,O,Iulian Dragos
+93954,207854,2005,12,15,13,O,Iulian Dragos
+93955,207854,2006,1,30,5,O,Iulian Dragos
+93956,207854,2006,2,28,2,O,Iulian Dragos
+93957,207854,2006,3,24,8,O,Iulian Dragos
+93958,207854,2006,4,10,2,O,Iulian Dragos
+93959,207854,2006,5,31,7,O,Iulian Dragos
+93960,207854,2006,6,27,4,O,Iulian Dragos
+93961,207854,2006,7,28,5,O,Iulian Dragos
+93962,207854,2006,8,28,13,O,Iulian Dragos
+93963,207854,2006,9,25,5,O,Iulian Dragos
+93964,207854,2006,10,27,9,O,Iulian Dragos
+93965,207854,2006,11,27,18,O,Iulian Dragos
+93966,207854,2006,12,12,2,O,Iulian Dragos
+93967,207854,2007,1,31,13,O,Iulian Dragos
+93968,207854,2007,2,28,17,O,Iulian Dragos
+93969,207854,2007,3,28,17,O,Iulian Dragos
+93970,207854,2007,4,30,8,O,Iulian Dragos
+93971,207854,2007,5,14,6,O,Iulian Dragos
+93972,207854,2007,6,29,7,O,Iulian Dragos
+93973,207854,2007,7,23,17,O,Iulian Dragos
+93974,207854,2007,8,31,15,O,Iulian Dragos
+93975,207854,2007,9,28,7,O,Iulian Dragos
+93976,207854,2007,10,31,12,O,Iulian Dragos
+93977,207854,2007,11,23,21,O,Iulian Dragos
+93978,207854,2007,12,11,4,O,Iulian Dragos
+93979,207854,2008,1,21,7,O,Iulian Dragos
+93980,207854,2008,2,25,4,O,Iulian Dragos
+93981,207854,2008,3,25,4,O,Iulian Dragos
+93982,207854,2008,4,29,10,O,Iulian Dragos
+93983,207854,2008,5,27,21,O,Iulian Dragos
+93984,207854,2008,6,26,12,O,Iulian Dragos
+93985,207854,2008,7,31,9,O,Iulian Dragos
+93986,207854,2008,8,28,28,O,Iulian Dragos
+93987,207854,2008,9,30,11,O,Iulian Dragos
+93988,207854,2008,10,31,9,O,Iulian Dragos
+93989,207854,2008,11,27,9,O,Iulian Dragos
+93990,207854,2008,12,17,6,O,Iulian Dragos
+93991,207854,2009,1,21,3,O,Iulian Dragos
+93992,207854,2009,3,30,14,O,Iulian Dragos
+93993,207854,2009,4,29,9,O,Iulian Dragos
+93994,207854,2009,5,29,12,O,Iulian Dragos
+93995,207854,2009,6,29,12,O,Iulian Dragos
+93996,207854,2009,7,31,7,O,Iulian Dragos
+93997,207854,2009,8,31,7,O,Iulian Dragos
+93998,207854,2009,9,30,13,O,Iulian Dragos
+93999,207854,2009,10,24,11,O,Iulian Dragos
+94000,207854,2009,11,9,4,O,Iulian Dragos
+94001,207854,2011,6,29,1,O,Iulian Dragos
+94002,207854,2011,12,20,2,O,Iulian Dragos
+94003,207854,2012,1,17,1,O,Iulian Dragos
+94004,207854,2012,2,8,6,O,Iulian Dragos
+94005,207854,2012,3,4,2,O,Iulian Dragos
+94006,207854,2012,4,30,5,O,Iulian Dragos
+94007,207854,2012,5,15,5,O,Iulian Dragos
+94008,207854,2012,6,26,3,O,Iulian Dragos
+94009,207854,2012,7,26,8,O,Iulian Dragos
+94010,207854,2012,9,5,4,O,Iulian Dragos
+94011,207854,2012,10,10,1,O,Iulian Dragos
+94012,207854,2013,2,1,1,O,Iulian Dragos
+94013,207854,2013,3,7,1,O,Iulian Dragos
+94014,207854,2013,9,20,2,O,Iulian Dragos
+94049,210663,2003,2,20,10,O,Martin Odersky
+94050,210663,2003,3,31,46,O,Martin Odersky
+94051,210663,2003,4,30,12,O,Martin Odersky
+94052,210663,2003,5,28,14,O,Martin Odersky
+94053,210663,2003,6,24,11,O,Martin Odersky
+94054,210663,2003,7,31,21,O,Martin Odersky
+94055,210663,2003,8,28,26,O,Martin Odersky
+94056,210663,2003,9,25,15,O,Martin Odersky
+94057,210663,2003,10,31,16,O,Martin Odersky
+94058,210663,2003,11,28,21,O,Martin Odersky
+94059,210663,2003,12,4,5,O,Martin Odersky
+94060,210663,2004,1,28,23,O,Martin Odersky
+94061,210663,2004,2,16,2,O,Martin Odersky
+94062,210663,2004,3,26,6,O,Martin Odersky
+94063,210663,2004,4,23,13,O,Martin Odersky
+94064,210663,2004,5,13,5,O,Martin Odersky
+94065,210663,2004,6,29,5,O,Martin Odersky
+94066,210663,2004,7,16,14,O,Martin Odersky
+94067,210663,2004,8,25,3,O,Martin Odersky
+94068,210663,2004,9,10,4,O,Martin Odersky
+94069,210663,2004,10,25,2,O,Martin Odersky
+94070,210663,2004,11,22,4,O,Martin Odersky
+94071,210663,2005,1,31,2,O,Martin Odersky
+94072,210663,2005,2,22,12,O,Martin Odersky
+94073,210663,2005,3,23,8,O,Martin Odersky
+94074,210663,2005,4,28,1,O,Martin Odersky
+94075,210663,2005,5,27,11,O,Martin Odersky
+94076,210663,2005,6,27,11,O,Martin Odersky
+94077,210663,2005,7,21,5,O,Martin Odersky
+94078,210663,2005,8,29,4,O,Martin Odersky
+94079,210663,2005,9,30,19,O,Martin Odersky
+94080,210663,2005,10,31,22,O,Martin Odersky
+94081,210663,2005,11,30,32,O,Martin Odersky
+94082,210663,2005,12,23,28,O,Martin Odersky
+94083,210663,2006,1,31,22,O,Martin Odersky
+94084,210663,2006,2,25,16,O,Martin Odersky
+94085,210663,2006,3,31,22,O,Martin Odersky
+94086,210663,2006,4,28,15,O,Martin Odersky
+94087,210663,2006,5,31,25,O,Martin Odersky
+94088,210663,2006,6,29,34,O,Martin Odersky
+94089,210663,2006,7,28,24,O,Martin Odersky
+94090,210663,2006,8,24,24,O,Martin Odersky
+94091,210663,2006,9,22,40,O,Martin Odersky
+94092,210663,2006,10,31,40,O,Martin Odersky
+94093,210663,2006,11,30,28,O,Martin Odersky
+94094,210663,2006,12,13,14,O,Martin Odersky
+94095,210663,2007,1,31,34,O,Martin Odersky
+94096,210663,2007,2,27,35,O,Martin Odersky
+94097,210663,2007,3,30,45,O,Martin Odersky
+94098,210663,2007,4,30,21,O,Martin Odersky
+94099,210663,2007,5,30,23,O,Martin Odersky
+94100,210663,2007,6,29,19,O,Martin Odersky
+94101,210663,2007,7,27,24,O,Martin Odersky
+94102,210663,2007,8,31,15,O,Martin Odersky
+94103,210663,2007,9,16,4,O,Martin Odersky
+94104,210663,2007,10,31,3,O,Martin Odersky
+94105,210663,2007,11,29,36,O,Martin Odersky
+94106,210663,2007,12,21,12,O,Martin Odersky
+94107,210663,2008,1,29,32,O,Martin Odersky
+94108,210663,2008,2,28,27,O,Martin Odersky
+94109,210663,2008,3,17,7,O,Martin Odersky
+94110,210663,2008,4,30,21,O,Martin Odersky
+94111,210663,2008,5,31,22,O,Martin Odersky
+94112,210663,2008,6,27,11,O,Martin Odersky
+94113,210663,2008,7,31,20,O,Martin Odersky
+94114,210663,2008,8,28,30,O,Martin Odersky
+94115,210663,2008,9,27,12,O,Martin Odersky
+94116,210663,2008,10,31,13,O,Martin Odersky
+94117,210663,2008,11,25,4,O,Martin Odersky
+94118,210663,2008,12,11,5,O,Martin Odersky
+94119,210663,2009,1,29,12,O,Martin Odersky
+94120,210663,2009,2,23,7,O,Martin Odersky
+94121,210663,2009,3,31,8,O,Martin Odersky
+94122,210663,2009,4,23,4,O,Martin Odersky
+94123,210663,2009,5,29,37,O,Martin Odersky
+94124,210663,2009,6,25,6,O,Martin Odersky
+94125,210663,2009,7,31,13,O,Martin Odersky
+94126,210663,2009,8,27,28,O,Martin Odersky
+94127,210663,2009,9,30,15,O,Martin Odersky
+94128,210663,2009,10,28,22,O,Martin Odersky
+94129,210663,2009,11,10,15,O,Martin Odersky
+94130,210663,2011,10,7,1,O,Martin Odersky
+94131,210663,2011,12,22,6,O,Martin Odersky
+94132,210663,2012,1,25,16,O,Martin Odersky
+94133,210663,2012,3,7,4,O,Martin Odersky
+94134,210663,2012,4,14,19,O,Martin Odersky
+94135,210663,2012,5,29,3,O,Martin Odersky
+94136,210663,2012,6,28,5,O,Martin Odersky
+94137,210663,2012,7,30,28,O,Martin Odersky
+94138,210663,2012,8,29,34,O,Martin Odersky
+94139,210663,2012,9,29,16,O,Martin Odersky
+94140,210663,2012,10,30,4,O,Martin Odersky
+94312,211221,2003,3,21,1,O,michelou
+94313,211221,2003,5,27,2,O,michelou
+94314,211221,2003,6,30,11,O,michelou
+94315,211221,2003,7,16,14,O,michelou
+94316,211221,2003,8,28,33,O,michelou
+94317,211221,2003,9,30,32,O,michelou
+94318,211221,2003,10,31,27,O,michelou
+94319,211221,2003,11,28,18,O,michelou
+94320,211221,2003,12,27,11,O,michelou
+94321,211221,2004,1,23,27,O,michelou
+94322,211221,2004,2,25,24,O,michelou
+94323,211221,2004,3,30,6,O,michelou
+94324,211221,2004,4,29,19,O,michelou
+94325,211221,2004,5,29,24,O,michelou
+94326,211221,2004,6,24,7,O,michelou
+94327,211221,2004,7,27,36,O,michelou
+94328,211221,2004,8,30,1,O,michelou
+94329,211221,2004,9,29,17,O,michelou
+94330,211221,2004,10,26,12,O,michelou
+94331,211221,2004,11,19,1,O,michelou
+94332,211221,2005,2,25,12,O,michelou
+94333,211221,2005,3,31,11,O,michelou
+94334,211221,2005,4,29,15,O,michelou
+94335,211221,2005,5,31,40,O,michelou
+94336,211221,2005,6,29,19,O,michelou
+94337,211221,2005,7,28,24,O,michelou
+94338,211221,2005,8,31,27,O,michelou
+94339,211221,2005,9,29,65,O,michelou
+94340,211221,2005,10,31,130,O,michelou
+94341,211221,2005,11,30,36,O,michelou
+94342,211221,2005,12,22,23,O,michelou
+94343,211221,2006,1,27,33,O,michelou
+94344,211221,2006,2,24,20,O,michelou
+94345,211221,2006,3,31,57,O,michelou
+94346,211221,2006,4,28,25,O,michelou
+94347,211221,2006,5,30,30,O,michelou
+94348,211221,2006,6,30,49,O,michelou
+94349,211221,2006,7,28,46,O,michelou
+94350,211221,2006,8,31,20,O,michelou
+94351,211221,2006,9,29,46,O,michelou
+94352,211221,2006,10,31,55,O,michelou
+94353,211221,2006,11,30,35,O,michelou
+94354,211221,2006,12,22,28,O,michelou
+94355,211221,2007,1,31,15,O,michelou
+94356,211221,2007,2,28,20,O,michelou
+94357,211221,2007,3,30,28,O,michelou
+94358,211221,2007,4,30,52,O,michelou
+94359,211221,2007,5,31,43,O,michelou
+94360,211221,2007,6,27,51,O,michelou
+94361,211221,2007,7,27,40,O,michelou
+94362,211221,2007,8,30,19,O,michelou
+94363,211221,2007,9,28,17,O,michelou
+94364,211221,2007,10,31,27,O,michelou
+94365,211221,2007,11,30,31,O,michelou
+94366,211221,2007,12,21,23,O,michelou
+94367,211221,2008,1,31,55,O,michelou
+94368,211221,2008,2,29,69,O,michelou
+94369,211221,2008,3,25,15,O,michelou
+94370,211221,2008,4,28,5,O,michelou
+94371,211221,2008,5,20,10,O,michelou
+94372,211221,2008,6,12,8,O,michelou
+94373,211221,2008,7,29,7,O,michelou
+94374,211221,2008,8,26,3,O,michelou
+94375,211221,2008,9,30,3,O,michelou
+94376,211221,2008,10,31,4,O,michelou
+94377,211221,2008,11,25,4,O,michelou
+94378,211221,2008,12,16,3,O,michelou
+94379,211221,2009,1,6,1,O,michelou
+94380,211221,2009,2,24,2,O,michelou
+94381,211221,2009,3,23,8,O,michelou
+94382,211221,2009,4,21,2,O,michelou
+94383,211221,2009,6,16,2,O,michelou
+94384,211221,2009,7,29,5,O,michelou
+94385,211221,2009,9,25,4,O,michelou
+94425,505793,2005,8,25,1,O,Gilles Dubochet
+94426,505793,2005,9,30,2,O,Gilles Dubochet
+94427,505793,2005,10,27,32,O,Gilles Dubochet
+94428,505793,2005,11,30,40,O,Gilles Dubochet
+94429,505793,2005,12,23,28,O,Gilles Dubochet
+94430,505793,2006,1,31,33,O,Gilles Dubochet
+94431,505793,2006,2,27,9,O,Gilles Dubochet
+94432,505793,2006,3,31,25,O,Gilles Dubochet
+94433,505793,2006,4,24,5,O,Gilles Dubochet
+94434,505793,2006,5,15,3,O,Gilles Dubochet
+94435,505793,2006,6,22,10,O,Gilles Dubochet
+94436,505793,2006,7,19,2,O,Gilles Dubochet
+94437,505793,2006,8,4,2,O,Gilles Dubochet
+94438,505793,2006,9,4,2,O,Gilles Dubochet
+94439,505793,2006,10,24,1,O,Gilles Dubochet
+94440,505793,2007,1,31,6,O,Gilles Dubochet
+94441,505793,2007,3,2,1,O,Gilles Dubochet
+94442,505793,2007,4,30,4,O,Gilles Dubochet
+94443,505793,2007,5,20,5,O,Gilles Dubochet
+94444,505793,2007,6,6,3,O,Gilles Dubochet
+94445,505793,2007,7,27,6,O,Gilles Dubochet
+94446,505793,2007,9,19,1,O,Gilles Dubochet
+94447,505793,2007,11,30,7,O,Gilles Dubochet
+94448,505793,2008,1,21,1,O,Gilles Dubochet
+94449,505793,2008,2,29,10,O,Gilles Dubochet
+94450,505793,2008,3,22,12,O,Gilles Dubochet
+94451,505793,2008,4,29,19,O,Gilles Dubochet
+94452,505793,2008,5,20,5,O,Gilles Dubochet
+94453,505793,2008,7,8,2,O,Gilles Dubochet
+94454,505793,2008,11,6,1,O,Gilles Dubochet
+94455,505793,2008,12,12,1,O,Gilles Dubochet
+94456,505793,2009,1,28,1,O,Gilles Dubochet
+94457,505793,2009,2,23,1,O,Gilles Dubochet
+94458,505793,2009,3,12,1,O,Gilles Dubochet
+94459,505793,2009,4,29,5,O,Gilles Dubochet
+94460,505793,2009,5,29,17,O,Gilles Dubochet
+94461,505793,2009,6,9,5,O,Gilles Dubochet
+94462,505793,2009,9,24,6,O,Gilles Dubochet
+94463,505793,2009,10,2,1,O,Gilles Dubochet
+94464,505793,2009,11,10,4,O,Gilles Dubochet
+94561,505827,2005,6,29,5,O,Burak Emir
+94562,505827,2005,7,31,19,O,Burak Emir
+94563,505827,2005,8,31,1,O,Burak Emir
+94564,505827,2005,10,24,12,O,Burak Emir
+94565,505827,2005,11,30,35,O,Burak Emir
+94566,505827,2005,12,15,17,O,Burak Emir
+94567,505827,2006,2,24,7,O,Burak Emir
+94568,505827,2006,3,30,37,O,Burak Emir
+94569,505827,2006,4,25,3,O,Burak Emir
+94570,505827,2006,5,23,6,O,Burak Emir
+94571,505827,2006,6,30,11,O,Burak Emir
+94572,505827,2006,7,30,16,O,Burak Emir
+94573,505827,2006,8,31,9,O,Burak Emir
+94574,505827,2006,9,22,20,O,Burak Emir
+94575,505827,2006,10,29,29,O,Burak Emir
+94576,505827,2006,11,30,30,O,Burak Emir
+94577,505827,2006,12,25,12,O,Burak Emir
+94578,505827,2007,1,31,26,O,Burak Emir
+94579,505827,2007,2,27,11,O,Burak Emir
+94580,505827,2007,3,24,17,O,Burak Emir
+94581,505827,2007,4,12,1,O,Burak Emir
+94582,505827,2007,5,14,6,O,Burak Emir
+94583,505827,2007,6,30,17,O,Burak Emir
+94584,505827,2007,7,25,41,O,Burak Emir
+94585,505827,2007,8,31,45,O,Burak Emir
+94586,505827,2007,9,26,17,O,Burak Emir
+94587,505827,2007,11,25,4,O,Burak Emir
+94588,505827,2007,12,24,3,O,Burak Emir
+94589,505827,2008,1,30,8,O,Burak Emir
+94590,505827,2008,2,23,8,O,Burak Emir
+94591,505827,2008,3,26,3,O,Burak Emir
+94592,505827,2008,4,13,16,O,Burak Emir
+94593,505829,2003,2,27,7,O,mihaylov
+94594,505829,2003,3,4,1,O,mihaylov
+94595,505829,2003,4,16,3,O,mihaylov
+94596,505829,2003,6,26,3,O,mihaylov
+94597,505829,2003,7,24,1,O,mihaylov
+94598,505829,2003,8,27,3,O,mihaylov
+94599,505829,2003,10,30,5,O,mihaylov
+94600,505829,2003,11,18,7,O,mihaylov
+94601,505829,2003,12,17,19,O,mihaylov
+94602,505829,2004,1,26,4,O,mihaylov
+94603,505829,2004,2,23,6,O,mihaylov
+94604,505829,2004,3,28,16,O,mihaylov
+94605,505829,2004,4,27,12,O,mihaylov
+94606,505829,2004,5,31,7,O,mihaylov
+94607,505829,2004,6,23,31,O,mihaylov
+94608,505829,2004,7,20,10,O,mihaylov
+94609,505829,2004,9,14,18,O,mihaylov
+94610,505829,2004,10,14,19,O,mihaylov
+94611,505829,2004,11,23,13,O,mihaylov
+94612,505829,2004,12,14,6,O,mihaylov
+94613,505829,2005,2,23,1,O,mihaylov
+94614,505829,2005,3,29,7,O,mihaylov
+94615,505829,2005,4,24,4,O,mihaylov
+94616,505829,2005,5,30,10,O,mihaylov
+94617,505829,2005,6,28,25,O,mihaylov
+94618,505829,2005,7,7,5,O,mihaylov
+94619,505829,2005,8,26,8,O,mihaylov
+94620,505829,2005,9,26,11,O,mihaylov
+94621,505829,2005,10,6,32,O,mihaylov
+94622,505829,2005,11,7,3,O,mihaylov
+94623,505829,2005,12,13,6,O,mihaylov
+94624,505829,2006,1,26,15,O,mihaylov
+94625,505829,2006,2,28,13,O,mihaylov
+94626,505829,2006,3,30,33,O,mihaylov
+94627,505829,2006,4,30,20,O,mihaylov
+94628,505829,2006,5,31,8,O,mihaylov
+94629,505829,2006,6,28,13,O,mihaylov
+94630,505829,2006,7,20,9,O,mihaylov
+94631,505829,2006,8,27,10,O,mihaylov
+94632,505829,2006,9,24,4,O,mihaylov
+94633,505829,2006,10,24,6,O,mihaylov
+94634,505829,2006,11,29,34,O,mihaylov
+94635,505829,2006,12,13,3,O,mihaylov
+94636,505829,2007,1,28,2,O,mihaylov
+94637,505829,2007,2,27,34,O,mihaylov
+94638,505829,2007,3,30,15,O,mihaylov
+94639,505829,2007,4,29,14,O,mihaylov
+94640,505829,2007,5,30,11,O,mihaylov
+94641,505829,2007,6,27,17,O,mihaylov
+94642,505829,2007,7,24,10,O,mihaylov
+94643,505829,2007,9,17,5,O,mihaylov
+94644,505829,2007,11,19,1,O,mihaylov
+94645,505829,2008,2,13,3,O,mihaylov
+94646,505829,2008,3,18,4,O,mihaylov
+94649,505846,2003,2,21,46,O,paltherr
+94650,505846,2003,3,31,150,O,paltherr
+94651,505846,2003,4,30,79,O,paltherr
+94652,505846,2003,5,23,51,O,paltherr
+94653,505846,2003,6,26,32,O,paltherr
+94654,505846,2003,7,31,86,O,paltherr
+94655,505846,2003,8,27,95,O,paltherr
+94656,505846,2003,9,30,56,O,paltherr
+94657,505846,2003,10,31,158,O,paltherr
+94658,505846,2003,11,28,118,O,paltherr
+94659,505846,2003,12,19,104,O,paltherr
+94660,505846,2004,1,31,117,O,paltherr
+94661,505846,2004,2,29,91,O,paltherr
+94662,505846,2004,3,28,157,O,paltherr
+94663,505846,2004,4,15,47,O,paltherr
+94664,505846,2004,5,17,7,O,paltherr
+94665,505846,2004,6,23,27,O,paltherr
+94666,505846,2004,7,27,17,O,paltherr
+94667,505846,2004,8,31,29,O,paltherr
+94668,505846,2004,9,29,53,O,paltherr
+94669,505846,2004,10,25,2,O,paltherr
+94670,505846,2004,11,30,47,O,paltherr
+94671,505846,2004,12,13,25,O,paltherr
+94672,505846,2005,1,27,7,O,paltherr
+94673,505846,2005,2,18,21,O,paltherr
+94674,505846,2005,3,16,2,O,paltherr
+94675,505846,2005,4,18,3,O,paltherr
+94676,505846,2005,5,23,18,O,paltherr
+94677,505846,2005,6,15,2,O,paltherr
+94678,505846,2005,10,26,1,O,paltherr
+94682,505850,2003,5,19,16,O,buraq
+94683,505850,2003,6,24,32,O,buraq
+94684,505850,2003,7,30,74,O,buraq
+94685,505850,2003,8,27,8,O,buraq
+94686,505850,2003,9,30,26,O,buraq
+94687,505850,2003,10,30,50,O,buraq
+94688,505850,2003,11,28,48,O,buraq
+94689,505850,2003,12,19,44,O,buraq
+94690,505850,2004,1,29,28,O,buraq
+94691,505850,2004,2,16,29,O,buraq
+94692,505850,2004,3,30,54,O,buraq
+94693,505850,2004,4,29,20,O,buraq
+94694,505850,2004,5,28,69,O,buraq
+94695,505850,2004,6,30,44,O,buraq
+94696,505850,2004,7,27,68,O,buraq
+94697,505850,2004,8,20,31,O,buraq
+94698,505850,2004,9,30,11,O,buraq
+94699,505850,2004,10,31,11,O,buraq
+94700,505850,2004,11,19,16,O,buraq
+94701,505850,2004,12,17,5,O,buraq
+94702,505850,2005,1,28,15,O,buraq
+94703,505850,2005,2,23,18,O,buraq
+94704,505850,2005,3,29,2,O,buraq
+94705,505850,2005,4,27,40,O,buraq
+94706,505850,2005,5,31,26,O,buraq
+94707,505850,2005,6,28,47,O,buraq
+94709,505853,2003,2,27,22,O,schinz
+94710,505853,2003,3,31,51,O,schinz
+94711,505853,2003,4,11,5,O,schinz
+94712,505853,2003,5,19,18,O,schinz
+94713,505853,2003,6,27,11,O,schinz
+94714,505853,2003,7,30,25,O,schinz
+94715,505853,2003,8,29,39,O,schinz
+94716,505853,2003,9,30,4,O,schinz
+94717,505853,2003,10,30,5,O,schinz
+94718,505853,2003,11,19,5,O,schinz
+94719,505853,2003,12,22,12,O,schinz
+94720,505853,2004,1,28,10,O,schinz
+94721,505853,2004,2,23,4,O,schinz
+94722,505853,2004,3,18,8,O,schinz
+94723,505853,2004,4,20,3,O,schinz
+94724,505853,2004,5,23,1,O,schinz
+94725,505853,2004,6,15,1,O,schinz
+94726,505853,2004,7,5,1,O,schinz
+94727,505853,2004,8,11,1,O,schinz
+94728,505853,2004,10,26,26,O,schinz
+94729,505853,2004,11,29,2,O,schinz
+94730,505853,2004,12,8,1,O,schinz
+94731,505853,2005,1,25,28,O,schinz
+94732,505853,2005,2,17,7,O,schinz
+94733,505853,2005,3,27,26,O,schinz
+94734,505853,2005,4,25,15,O,schinz
+94735,505853,2005,5,24,10,O,schinz
