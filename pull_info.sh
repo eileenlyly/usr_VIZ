@@ -47,7 +47,7 @@ where exists
 (select pullreq_id from pull_requests 
 where pull_requests.base_repo_id = $1 
 #Liu
-and merged = 1
+and pull_requests.merged = 1
 and pull_requests.pullreq_id = pull_request_commits.pull_request_id)
 union all
 select 90000 as pull_request_id, commit_id
