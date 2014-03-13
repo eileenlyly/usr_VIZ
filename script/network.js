@@ -7,7 +7,7 @@ var width = 1300,
 
 var force = d3.layout.force()
     .charge( function(d) { return -80 * Math.sqrt(d.count)} )
-    .linkDistance(50)
+    .linkDistance(60)
     .gravity(0.9)
     .size([width - 250, height]);
 
@@ -21,10 +21,10 @@ var header = d3.select(document.getElementById("header"));
 var header1 = d3.select(document.getElementById("header1"));
 var header2 = d3.select(document.getElementById("header2"));
 
-d3.json("data/sample.json", function(error, graph) {
+d3.json("data/reddit_merged.json", function(error, graph) {
 
     var kind_to_color = function(d){
-        if(d.epika > 100) return "#CC99FF";
+        if(d.type == "O") return "#CC99FF";
         return "#33CC66";
     };
 
@@ -40,15 +40,15 @@ d3.json("data/sample.json", function(error, graph) {
         .data(graph.links)
         .enter().append("line")
         .attr("class", "link")
-        .style("stroke",function(d){ return kind_to_color(d); })
+        .style("stroke","888888")
         .style("stroke-opacity", 0.2)
-        .style("stroke-width", function(d) { return d.count/1000; });
+        .style("stroke-width", function(d) { return Math.max(d.count/10,1); });
 
     var node = main.selectAll(".node_circle")
         .data(graph.nodes)
         .enter().append("circle")
         .attr("class", "node_circle")
-        .attr("r", function(d) { return d.count/100; })
+        .attr("r", function(d) { return Math.max(Math.sqrt(d.count),2); })
         .style("fill", function(d){ return kind_to_color(d).toString(); } )
         .on("mouseover", function(d) { mouseover_node(d); })
         .on("mouseout", function(d) { mouseout_node(d) })
@@ -63,6 +63,7 @@ d3.json("data/sample.json", function(error, graph) {
         .attr("font-family", "Verdana")
         .attr("font-size", 5)
         .style("fill", "#000000")
+        .style("fill-opacity", 0)
         .text(function(d) { return d.name; });
 
     force.on("tick", function() {
@@ -83,6 +84,7 @@ d3.json("data/sample.json", function(error, graph) {
         var neighbors = {};
         neighbors[z.index] = true;
         var countnb = 0;
+        link.style("stroke-opacity", 0.1);
 
         link.filter(function(d){
             if (d.source == z) {
@@ -99,14 +101,15 @@ d3.json("data/sample.json", function(error, graph) {
         })
             .style("stroke-opacity", 1);
 
+        node.filter(function(d){ if (d == z) return true})
+            .style("fill","0066FF");
+
         node.filter(function(d){ return neighbors[d.index] })
             .style("stroke-width", 3);
 
-        label.filter(function(d){ return !neighbors[d.index] })
-            .style("fill-opacity", 0.2);
-
         label.filter(function(d){ return neighbors[d.index] })
-            .attr("font-size", 10);
+            .attr("font-size", 10)
+            .style("fill-opacity", 1);
 
         toolTip.style("right",  "50px")
             .style("top", "200px")
@@ -117,8 +120,8 @@ d3.json("data/sample.json", function(error, graph) {
             .style("opacity", ".8");
 
         header.text(z.name);
-        header1.text(z.count+" Collaboration");
-        header2.text("with "+countnb+ " Users");
+        header1.text(z.count+" Commits");
+        header2.text("Collaborate with "+countnb+ " Users");
 
     };
 
@@ -128,13 +131,14 @@ d3.json("data/sample.json", function(error, graph) {
 
         node
             .style("stroke-width", 1)
+            .style("fill", function(d){ return kind_to_color(d).toString(); });
 
         label
             .attr("font-size", 5)
-            .style("fill-opacity", 1)
+            .style("fill-opacity", 0)
 
-        toolTip.transition()									// declare the transition properties to fade-out the div
-            .duration(400)									// it shall take 500ms
+        toolTip.transition()
+            .duration(400)
             .style("opacity", "0");
 
     };
